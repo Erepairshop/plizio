@@ -112,6 +112,16 @@ jobs:
           echo "- HTML files written: $COPIED" >> $GITHUB_STEP_SUMMARY
           echo "- Active release: $ACTIVE" >> $GITHUB_STEP_SUMMARY
 
+      - name: Update sitemap lastmod + IndexNow ping
+        run: |
+          # Refresh sitemap.xml `lastmod` for affected URLs (so Googlebot re-crawls)
+          # + reset IndexNow cooldown + immediate Bing/Yandex/Seznam ping.
+          if [ -x /home/erik/_sitemap_touch_and_indexnow.py ]; then
+            python3 /home/erik/_sitemap_touch_and_indexnow.py "$POI_IDS_FILE" 2>&1 | tail -20
+          else
+            echo "[delta] sitemap-touch script not found, skipping freshness signal"
+          fi
+
       - name: Smoke test + diagnostic
         run: |
           set +e
