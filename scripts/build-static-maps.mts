@@ -108,8 +108,6 @@ const COUNTRIES: Country[] = [
     names:{ de:"Vatikan", hu:"Vatikán", ro:"Vatican", en:"Vatican" } },
   { iso:"li", slug:"liechtenstein", svgFile:"liechtenstein.svg.ts", mapVar:"liechtensteinMap", vbVar:"liechtensteinViewBox", projFn:"projectCoordsLI",
     names:{ de:"Liechtenstein", hu:"Liechtenstein", ro:"Liechtenstein", en:"Liechtenstein" } },
-  { iso:"gf", slug:"frenchguiana", svgFile:"frenchguiana.svg.ts", mapVar:"frenchguianaMap", vbVar:"frenchguianaViewBox", projFn:"projectCoordsGF",
-    names:{ de:"Französisch-Guayana", hu:"Francia Guyana", ro:"Guyana Franceză", en:"French Guiana" } },
 
   // === North America (2026-05-27) ===
   { iso:"us", slug:"usa", svgFile:"usa.svg.ts", mapVar:"usaMap", vbVar:"usaViewBox", projFn:"projectCoordsUS",
@@ -836,7 +834,7 @@ header .langs{display:flex;gap:.25rem}
 </head>
 <body>
 <header>
-<a class="back" href="/europe-map/" aria-label="${back}">‹</a>
+<a class="back" href="/" aria-label="${back}">‹</a>
 <h1>${t}</h1>
 <div class="langs">${langLinks}</div>
 </header>
