@@ -1710,10 +1710,45 @@ ${structuredData(poi, lang, url, metaDesc, countryId, countrySlugFor(lang, count
   ...(poi.parent !== countryId ? [{ name: poi.parent, url: buildStatePath(lang, poi.parent) }] : []),
   { name, url: buildPoiPath(lang, poi) },
 ])}
+<script defer src="https://stats.plizio.com/script.js" data-website-id="b718db4e-ee1b-43db-a89a-af4ecc5435bf"></script>
 </head>
 <body>
 <div class="plz-progress" id="plz-progress" aria-hidden="true"></div>
 <script>(function(){var b=document.getElementById('plz-progress');if(!b)return;function u(){var s=document.documentElement;var p=s.scrollTop/(s.scrollHeight-s.clientHeight)||0;b.style.transform='scaleX('+Math.min(1,Math.max(0,p))+')';}window.addEventListener('scroll',u,{passive:true});u();})();</script>
+<script>(function(){function t(n,d){if(window.umami&&window.umami.track){try{window.umami.track(n,d||{});}catch(e){}}}
+// Wait for umami script to load
+function ready(){if(!window.umami||!window.umami.track){setTimeout(ready,300);return;}init();}
+function init(){
+// Scroll depth: 25/50/75/100
+var sd={25:0,50:0,75:0,100:0};window.addEventListener('scroll',function(){var s=document.documentElement;var p=Math.round(s.scrollTop/(s.scrollHeight-s.clientHeight)*100);for(var k in sd){if(p>=k&&!sd[k]){sd[k]=1;t('scroll',{depth:Number(k)});}}},{passive:true});
+// Time on page (15s, 30s, 60s, 180s)
+[15000,30000,60000,180000].forEach(function(ms){setTimeout(function(){t('engaged',{seconds:ms/1000});},ms);});
+// Click handlers
+document.addEventListener('click',function(e){
+  var a=e.target.closest('a[href]');
+  if(a){
+    var h=a.getAttribute('href')||'';
+    var ext=/^https?:\/\//.test(h)&&!h.includes(location.host);
+    if(ext){
+      var rel=(a.getAttribute('rel')||'').toLowerCase();
+      var kind=rel.includes('sponsored')?'affiliate':(/wikipedia\.org/.test(h)?'wiki':(/google\.[a-z.]+\/maps/.test(h)?'gmaps':(/openstreetmap\.org/.test(h)?'osm':(/ticketmaster|datatourisme/.test(h)?'event':'external'))));
+      t('outbound',{kind:kind,url:h.slice(0,200)});
+    }
+  }
+  var go=e.target.closest('.plz-itin-go');if(go){t('itinerary_open',{});}
+  var md=e.target.closest('[data-mode]');if(md){t('itinerary_mode',{mode:md.dataset.mode});}
+  var wt=e.target.closest('[data-weather]');if(wt){t('itinerary_weather',{weather:wt.dataset.weather});}
+  var ics=e.target.closest('.plz-itin-ics');if(ics){t('itinerary_ics_export',{mw:ics.dataset.ics});}
+  var chk=e.target.closest('.plz-itin-check');if(chk){t('stop_check',{});}
+  var yh=e.target.closest('.plz-yh-card');if(yh){t('highlight_click',{});}
+  var ymore=e.target.closest('.plz-yh-more');if(ymore){t('highlight_expand',{});}
+  var sight=e.target.closest('.plz-sight');if(sight){t('sight_click',{});}
+  var lang=e.target.closest('[data-lang-switch]');if(lang){t('lang_switch',{to:lang.dataset.langSwitch});}
+});
+// FAQ open (details element)
+document.querySelectorAll('.plz-faq-item summary,.plz-yh-collapse summary').forEach(function(s){s.addEventListener('click',function(){var d=s.parentElement;if(!d.hasAttribute('open')){t('faq_open',{q:(s.textContent||'').slice(0,80)});}});});
+}
+ready();})();</script>
 <header class="plz-header">
   <div class="plz-header-inner">
     <a href="/${lang}/" class="plz-logo">Plizio</a>
@@ -2056,10 +2091,45 @@ ${isAdSenseEligible(host, lang) ? ADSENSE_HEAD : ""}
 .plz-sp-facts li{margin-bottom:.3rem}
 @media(max-width:640px){.plz-sp-grid{grid-template-columns:1fr}}
 </style>
+<script defer src="https://stats.plizio.com/script.js" data-website-id="b718db4e-ee1b-43db-a89a-af4ecc5435bf"></script>
 </head>
 <body>
 <div class="plz-progress" id="plz-progress" aria-hidden="true"></div>
 <script>(function(){var b=document.getElementById('plz-progress');if(!b)return;function u(){var s=document.documentElement;var p=s.scrollTop/(s.scrollHeight-s.clientHeight)||0;b.style.transform='scaleX('+Math.min(1,Math.max(0,p))+')';}window.addEventListener('scroll',u,{passive:true});u();})();</script>
+<script>(function(){function t(n,d){if(window.umami&&window.umami.track){try{window.umami.track(n,d||{});}catch(e){}}}
+// Wait for umami script to load
+function ready(){if(!window.umami||!window.umami.track){setTimeout(ready,300);return;}init();}
+function init(){
+// Scroll depth: 25/50/75/100
+var sd={25:0,50:0,75:0,100:0};window.addEventListener('scroll',function(){var s=document.documentElement;var p=Math.round(s.scrollTop/(s.scrollHeight-s.clientHeight)*100);for(var k in sd){if(p>=k&&!sd[k]){sd[k]=1;t('scroll',{depth:Number(k)});}}},{passive:true});
+// Time on page (15s, 30s, 60s, 180s)
+[15000,30000,60000,180000].forEach(function(ms){setTimeout(function(){t('engaged',{seconds:ms/1000});},ms);});
+// Click handlers
+document.addEventListener('click',function(e){
+  var a=e.target.closest('a[href]');
+  if(a){
+    var h=a.getAttribute('href')||'';
+    var ext=/^https?:\/\//.test(h)&&!h.includes(location.host);
+    if(ext){
+      var rel=(a.getAttribute('rel')||'').toLowerCase();
+      var kind=rel.includes('sponsored')?'affiliate':(/wikipedia\.org/.test(h)?'wiki':(/google\.[a-z.]+\/maps/.test(h)?'gmaps':(/openstreetmap\.org/.test(h)?'osm':(/ticketmaster|datatourisme/.test(h)?'event':'external'))));
+      t('outbound',{kind:kind,url:h.slice(0,200)});
+    }
+  }
+  var go=e.target.closest('.plz-itin-go');if(go){t('itinerary_open',{});}
+  var md=e.target.closest('[data-mode]');if(md){t('itinerary_mode',{mode:md.dataset.mode});}
+  var wt=e.target.closest('[data-weather]');if(wt){t('itinerary_weather',{weather:wt.dataset.weather});}
+  var ics=e.target.closest('.plz-itin-ics');if(ics){t('itinerary_ics_export',{mw:ics.dataset.ics});}
+  var chk=e.target.closest('.plz-itin-check');if(chk){t('stop_check',{});}
+  var yh=e.target.closest('.plz-yh-card');if(yh){t('highlight_click',{});}
+  var ymore=e.target.closest('.plz-yh-more');if(ymore){t('highlight_expand',{});}
+  var sight=e.target.closest('.plz-sight');if(sight){t('sight_click',{});}
+  var lang=e.target.closest('[data-lang-switch]');if(lang){t('lang_switch',{to:lang.dataset.langSwitch});}
+});
+// FAQ open (details element)
+document.querySelectorAll('.plz-faq-item summary,.plz-yh-collapse summary').forEach(function(s){s.addEventListener('click',function(){var d=s.parentElement;if(!d.hasAttribute('open')){t('faq_open',{q:(s.textContent||'').slice(0,80)});}});});
+}
+ready();})();</script>
 <header class="plz-header">
   <div class="plz-header-inner">
     <a href="/${lang}/" class="plz-logo">Plizio</a>
