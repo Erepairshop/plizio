@@ -1830,6 +1830,13 @@ function renderHtml(poi: POI, lang: Lang): string | null {
 <script>(function(){var tr=document.getElementById('plz-hero-track');if(!tr)return;var dots=tr.parentElement.querySelectorAll('.plz-hero-dot');function sync(){var w=tr.clientWidth;var i=Math.round(tr.scrollLeft/w);dots.forEach(function(d,j){d.classList.toggle('active',i===j);});}tr.addEventListener('scroll',function(){sync();},{passive:true});dots.forEach(function(d,i){d.addEventListener('click',function(){tr.scrollTo({left:i*tr.clientWidth,behavior:'smooth'});});});})();</script>`;
   }
 
+  // Admin-only "bad image" flag button (gated by ?flag=1 → localStorage).
+  // Fires an Umami `bad_image` event so we can later list POIs needing image swap.
+  const flagBtnHtml = heroImages.length > 0
+    ? `<button type="button" class="plz-imgflag" data-poi="${escapeHtml(poi.id)}" aria-label="Rossz kép jelölése" hidden>⚑</button>`
+      + `<script>(function(){try{var s=location.search;if(s.indexOf('flag=1')>=0)localStorage.setItem('plzflag','1');if(s.indexOf('flag=0')>=0)localStorage.removeItem('plzflag');if(localStorage.getItem('plzflag')!=='1')return;}catch(e){return;}var b=document.querySelector('.plz-imgflag');if(!b)return;b.hidden=false;b.addEventListener('click',function(){var id=b.getAttribute('data-poi');try{if(window.umami&&window.umami.track)window.umami.track('bad_image',{poi:id,lang:${JSON.stringify(lang)}});}catch(e){}b.textContent='\\u2713';b.disabled=true;b.classList.add('done');});})();</script>`
+    : "";
+
   // Coat of arms (city/region badge)
   const coa = (poi as { coa?: string }).coa;
   const coaLabel: Partial<Record<Lang, string>> = { de: "Wappen", hu: "címer", ro: "stema", en: "coat of arms", fr: "blason", tr: "arması" };
@@ -1949,7 +1956,7 @@ ready();})();</script>
   ${renderStatsChips(poi, lang, richness, sightsArr.length, nearbyArr.length)}
   ${renderTabNav(lang, { hasItin: true, hasSights: sightsArr.length > 0 || nearbyArr.length > 0, hasNews: !!newsHtml, hasInfo: factsArr.length > 0 || geoItems.length > 0 || historyHtml })}
   <div class="plz-hero-grid" id="sec-overview">
-    <div class="plz-hero-grid-main">${heroHtml}</div>
+    <div class="plz-hero-grid-main">${heroHtml}${flagBtnHtml}</div>
     <div class="plz-hero-grid-side">${weatherHtml}${marineHtml}${officialLinksHtml}${yearlyHtml}${newsHtml}</div>
   </div>
   ${descText ? `<section><p class="poi-lead-paragraph">${escapeHtml(descText)}</p></section>` : ""}
@@ -2015,6 +2022,10 @@ ready();})();</script>
 .plz-cst-dist{font-size:.72rem;color:#9fc4ff}
 .plz-cst-go{font-size:.72rem;font-weight:700;color:#7fd0ff;margin-top:3px}
 @media (max-width:640px){.plz-constel{max-width:none}.plz-cst-card{max-width:150px}.plz-cst-name{font-size:.76rem}}
+.plz-hero-grid-main{position:relative}
+.plz-imgflag{position:absolute;top:8px;right:8px;z-index:6;width:34px;height:34px;border-radius:50%;border:1px solid rgba(255,255,255,.45);background:rgba(190,32,32,.82);color:#fff;font-size:1rem;line-height:1;cursor:pointer;display:flex;align-items:center;justify-content:center;padding:0;box-shadow:0 2px 8px rgba(0,0,0,.45)}
+.plz-imgflag:hover{background:rgba(210,40,40,.95)}
+.plz-imgflag.done{background:rgba(30,140,60,.88);cursor:default;border-color:rgba(255,255,255,.6)}
 ${EXPLORE_CSS}
 </style>
 <script>(function(){var box=document.getElementById('plz-lightbox');if(!box)return;var img=box.querySelector('img');var btn=box.querySelector('.plz-lightbox-close');function open(src,alt){img.src=src;img.alt=alt||'';box.classList.add('open');box.setAttribute('aria-hidden','false');document.body.style.overflow='hidden';}function close(){box.classList.remove('open');box.setAttribute('aria-hidden','true');img.src='';document.body.style.overflow='';}document.addEventListener('click',function(e){var t=e.target.closest('.plz-sight-img-btn');if(t){e.preventDefault();open(t.dataset.plzimg,t.dataset.plzalt);}});btn.addEventListener('click',close);box.addEventListener('click',function(e){if(e.target===box)close();});document.addEventListener('keydown',function(e){if(e.key==='Escape')close();});})();</script>
