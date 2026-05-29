@@ -1968,8 +1968,7 @@ ready();})();</script>
   ${didYouKnowHtml}
   </div>
   ${constellationHtml}
-  ${faqHtml}
-  ${renderFAQ(poi, lang)}
+  ${renderFAQ(poi, lang) || faqHtml}
   <div id="sec-sights">
   ${sightsHtml}
   ${nearbyHtml}
