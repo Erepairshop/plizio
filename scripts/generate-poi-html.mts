@@ -512,6 +512,147 @@ function getRelatedPois(poi: POI, limit = 6): POI[] {
     .slice(0, limit);
 }
 
+// Normalize a POI coords array to [lat, lon]. Plizio standard is [lon, lat],
+// but a few early files used [lat, lon] — same heuristic as toLatLon() inside
+// renderItinerary (Europe lon |a|<30, lat |b|>25 → [lon,lat]).
+function coordLatLon(c: unknown): [number, number] | null {
+  if (!Array.isArray(c) || c.length < 2) return null;
+  const a = Number(c[0]), b = Number(c[1]);
+  if (!Number.isFinite(a) || !Number.isFinite(b)) return null;
+  if (Math.abs(a) < 30 && Math.abs(b) > 25) return [b, a]; // [lon, lat]
+  return [a, b]; // [lat, lon]
+}
+
+function haversineKm(lat1: number, lon1: number, lat2: number, lon2: number): number {
+  const R = 6371, toR = Math.PI / 180;
+  const dLat = (lat2 - lat1) * toR, dLon = (lon2 - lon1) * toR;
+  const h = Math.sin(dLat / 2) ** 2 + Math.cos(lat1 * toR) * Math.cos(lat2 * toR) * Math.sin(dLon / 2) ** 2;
+  return 2 * R * Math.asin(Math.min(1, Math.sqrt(h)));
+}
+
+// Geographically nearest indexable POIs (haversine), deduped by name.
+function getNearbyPois(poi: POI, limit = 8, maxKm = 150): { p: POI; km: number }[] {
+  const c0 = coordLatLon(poi.coords);
+  if (!c0) return [];
+  const [lat0, lon0] = c0;
+  const found: { p: POI; km: number }[] = [];
+  for (const p of pois) {
+    if (!p || p.id === poi.id) continue;
+    if (p.type === "region" || p.type === "country") continue;
+    if (!hasIndexableContent(p)) continue;
+    const c = coordLatLon(p.coords);
+    if (!c) continue;
+    const km = haversineKm(lat0, lon0, c[0], c[1]);
+    if (km <= 0.05 || km > maxKm) continue;
+    found.push({ p, km });
+  }
+  found.sort((a, b) => a.km - b.km);
+  const seen = new Set<string>();
+  const out: { p: POI; km: number }[] = [];
+  for (const e of found) {
+    const nm = ((getLocalized(e.p.name, "en") as string) || e.p.id).toLowerCase();
+    if (seen.has(nm)) continue;
+    // skip near-duplicates (e.g. a city and its cathedral share coords → overlapping dots)
+    const c = coordLatLon(e.p.coords)!;
+    let tooClose = false;
+    for (const o of out) {
+      const oc = coordLatLon(o.p.coords)!;
+      if (haversineKm(c[0], c[1], oc[0], oc[1]) < 1.5) { tooClose = true; break; }
+    }
+    if (tooClose) continue;
+    seen.add(nm);
+    out.push(e);
+    if (out.length >= limit) break;
+  }
+  return out;
+}
+
+// "Constellation" mini-map: a night-sky / flight-map style SVG with the current
+// POI as a pulsing star at the center and nearby POIs placed at their TRUE
+// relative bearing, sized/brightened by proximity. Arcs link them to the
+// center; hovering/tapping a dot reveals a card (thumb + name + distance + dir).
+// Pure SVG + CSS + ~10 lines JS, no external lib, static-export safe.
+const CONSTEL_I18N: Record<string, { title: string; sub: string; lt1: string; go: string; dirs: string[]; comp: [string, string, string, string] }> = {
+  de: { title: "Entdecke die Umgebung", sub: "Sehenswerte Orte in der Nähe", lt1: "<1 km", go: "Entdecken", dirs: ["N", "NO", "O", "SO", "S", "SW", "W", "NW"], comp: ["N", "O", "S", "W"] },
+  hu: { title: "Fedezd fel a környéket", sub: "Közeli érdekes helyek", lt1: "<1 km", go: "Felfedezés", dirs: ["É", "ÉK", "K", "DK", "D", "DNy", "Ny", "ÉNy"], comp: ["É", "K", "D", "Ny"] },
+  ro: { title: "Explorează împrejurimile", sub: "Locuri interesante în apropiere", lt1: "<1 km", go: "Explorează", dirs: ["N", "NE", "E", "SE", "S", "SV", "V", "NV"], comp: ["N", "E", "S", "V"] },
+  en: { title: "Explore nearby", sub: "Notable places around", lt1: "<1 km", go: "Explore", dirs: ["N", "NE", "E", "SE", "S", "SW", "W", "NW"], comp: ["N", "E", "S", "W"] },
+  fr: { title: "Explorez les environs", sub: "Lieux remarquables à proximité", lt1: "<1 km", go: "Explorer", dirs: ["N", "NE", "E", "SE", "S", "SO", "O", "NO"], comp: ["N", "E", "S", "O"] },
+  tr: { title: "Çevreyi keşfet", sub: "Yakındaki ilgi çekici yerler", lt1: "<1 km", go: "Keşfet", dirs: ["K", "KD", "D", "GD", "G", "GB", "B", "KB"], comp: ["K", "D", "G", "B"] },
+};
+
+function renderConstellation(poi: POI, lang: Lang): string {
+  const c0 = coordLatLon(poi.coords);
+  if (!c0) return "";
+  const nodes = getNearbyPois(poi, 8, 150);
+  if (nodes.length < 3) return ""; // not enough to be worth a map
+  const [lat0, lon0] = c0;
+  const cosLat = Math.cos(lat0 * Math.PI / 180);
+  const raw = nodes.map(({ p, km }) => {
+    const c = coordLatLon(p.coords)!;
+    return { p, km, dx: (c[1] - lon0) * cosLat /* east */, dy: c[0] - lat0 /* north */ };
+  });
+  const maxR = Math.max(...raw.map((q) => Math.hypot(q.dx, q.dy))) || 1;
+  const maxKm = Math.max(...raw.map((q) => q.km)) || 1;
+  const t = CONSTEL_I18N[lang] || CONSTEL_I18N.en;
+
+  const CX = 50, CY = 37.5, RAD = 0.40; // viewBox 100x75, fractional placement radius
+  const placed = raw.map((q) => {
+    const r = Math.hypot(q.dx, q.dy) || 1;
+    // push very-close nodes out a touch so they don't overlap the star
+    const f = Math.max(0.28, r / maxR);
+    const fx = 0.5 + (q.dx / r) * f * RAD;
+    const fy = 0.5 - (q.dy / r) * f * RAD; // north up
+    const sx = fx * 100, sy = fy * 75;
+    const dotPx = Math.round((14 - 6 * (q.km / maxKm)) * 10) / 10; // closer = bigger (8..14)
+    let deg = Math.atan2(q.dx, q.dy) * 180 / Math.PI; if (deg < 0) deg += 360;
+    const dir = t.dirs[Math.round(deg / 45) % 8];
+    return { ...q, fx, fy, sx, sy, dotPx, dir };
+  });
+
+  const arcs = placed.map((q) => {
+    const mx = (CX + q.sx) / 2, my = (CY + q.sy) / 2;
+    let nx = q.sy - CY, ny = -(q.sx - CX); const nl = Math.hypot(nx, ny) || 1;
+    const k = 5; const ax = mx + (nx / nl) * k, ay = my + (ny / nl) * k;
+    return `<path class="plz-cst-arc" d="M${CX} ${CY} Q${ax.toFixed(1)} ${ay.toFixed(1)} ${q.sx.toFixed(1)} ${q.sy.toFixed(1)}"/>`;
+  }).join("");
+
+  const nodeHtml = placed.map((q) => {
+    const nm = escapeHtml((getLocalized(q.p.name, lang) as string) || q.p.id);
+    const href = buildPoiPath(lang, q.p);
+    const img = (q.p as { image?: string }).image;
+    const km = q.km < 1 ? t.lt1 : `${Math.round(q.km)} km`;
+    const low = q.fy < 0.32 ? " plz-cst-node--low" : "";
+    const thumb = img
+      ? `<span class="plz-cst-thumb"><img src="${escapeHtml(img)}" alt="${nm}" loading="lazy" width="46" height="46"/></span>`
+      : `<span class="plz-cst-thumb">📍</span>`;
+    return `<div class="plz-cst-node${low}" style="left:${(q.fx * 100).toFixed(2)}%;top:${(q.fy * 100).toFixed(2)}%;--d:${q.dotPx}px">`
+      + `<span class="plz-cst-dot" tabindex="0" role="button" aria-label="${nm}"></span>`
+      + `<a class="plz-cst-card" href="${href}">${thumb}`
+      + `<span class="plz-cst-info"><span class="plz-cst-name">${nm}</span>`
+      + `<span class="plz-cst-dist">${km} · ${q.dir}</span>`
+      + `<span class="plz-cst-go">${t.go} →</span></span></a></div>`;
+  }).join("");
+
+  return `<section class="plz-constel-sec"><h2>${escapeHtml(t.title)}</h2>`
+    + `<p class="plz-constel-sub">${escapeHtml(t.sub)}</p>`
+    + `<div class="plz-constel">`
+    + `<div class="plz-cst-stage"><svg class="plz-cst-svg" viewBox="0 0 100 75" preserveAspectRatio="xMidYMid meet" aria-hidden="true">`
+    + `<circle class="plz-cst-ring" cx="${CX}" cy="${CY}" r="13"/><circle class="plz-cst-ring" cx="${CX}" cy="${CY}" r="26"/>`
+    + arcs
+    + `<g class="plz-cst-star"><circle class="plz-cst-halo" cx="${CX}" cy="${CY}" r="5"/>`
+    + `<path class="plz-cst-core" d="M${CX} ${CY - 6.5} L${CX + 1.7} ${CY - 1.6} L${CX + 6.5} ${CY} L${CX + 1.7} ${CY + 1.6} L${CX} ${CY + 6.5} L${CX - 1.7} ${CY + 1.6} L${CX - 6.5} ${CY} L${CX - 1.7} ${CY - 1.6} Z"/></g>`
+    + `<text class="plz-cst-comp" x="${CX}" y="4.5">${t.comp[0]}</text>`
+    + `<text class="plz-cst-comp" x="95.5" y="${CY}">${t.comp[1]}</text>`
+    + `<text class="plz-cst-comp" x="${CX}" y="71.5">${t.comp[2]}</text>`
+    + `<text class="plz-cst-comp" x="4.5" y="${CY}">${t.comp[3]}</text>`
+    + `</svg></div>`
+    + `<div class="plz-cst-nodes">${nodeHtml}</div>`
+    + `</div>`
+    + `<script>(function(){var ns=[].slice.call(document.querySelectorAll('.plz-cst-node'));if(!ns.length)return;function close(){ns.forEach(function(m){m.classList.remove('open');});}ns.forEach(function(n){var d=n.querySelector('.plz-cst-dot');function tog(e){e.preventDefault();e.stopPropagation();var was=n.classList.contains('open');close();if(!was)n.classList.add('open');}d.addEventListener('click',tog);d.addEventListener('keydown',function(e){if(e.key==='Enter'||e.key===' ')tog(e);});});document.addEventListener('click',close);})();</script>`
+    + `</section>`;
+}
+
 const OUT_DIR = path.resolve(process.cwd(), process.env.OUT_DIR || "out");
 const GEN_LIMIT = Number(process.env.GEN_LIMIT || 0);
 
@@ -1292,6 +1433,8 @@ function renderHtml(poi: POI, lang: Lang): string | null {
     .map((g) => `<section><h2>${I(GROUP_LABEL_KEYS[g], lang)}</h2><div class="plz-related">${grouped[g].slice(0, 8).map(relatedCard).join("")}</div></section>`)
     .join("");
 
+  const constellationHtml = renderConstellation(poi, lang);
+
   // Did-you-know — deterministic fact pick by POI id char-sum
   let didYouKnowHtml = "";
   {
@@ -1790,7 +1933,7 @@ ready();})();</script>
   ${factsArr.length > 0 ? `<section><h2>${I("facts", lang)}</h2><ul class="plz-facts">${factsArr.map((f) => `<li>${escapeHtml(f)}</li>`).join("")}</ul></section>` : ""}
   ${didYouKnowHtml}
   </div>
-  ${richness.isWeak ? "" : gameCtaHtml}
+  ${constellationHtml}
   ${faqHtml}
   ${renderFAQ(poi, lang)}
   <div id="sec-sights">
@@ -1815,6 +1958,36 @@ ready();})();</script>
 .plz-lightbox-close{position:absolute;top:max(12px,env(safe-area-inset-top));right:max(12px,env(safe-area-inset-right));width:44px;height:44px;border-radius:50%;background:rgba(0,0,0,.6);color:#fff;border:1px solid rgba(255,255,255,.2);font-size:1.6rem;line-height:1;cursor:pointer;display:flex;align-items:center;justify-content:center;padding:0}
 .plz-lightbox-close:hover{background:rgba(0,0,0,.8)}
 @media (max-width:640px){.plz-lightbox img{max-width:95vw;max-height:80vh}}
+.plz-constel-sec{margin:1.6rem 0}
+.plz-constel-sub{margin:.15rem 0 .8rem;opacity:.65;font-size:.9rem}
+.plz-constel{position:relative;width:100%;max-width:560px;margin:0 auto;aspect-ratio:4/3}
+.plz-cst-stage{position:absolute;inset:0;border-radius:16px;overflow:hidden;background:radial-gradient(120% 100% at 50% 38%,#1a2c4d 0%,#0d1730 52%,#070b18 100%);box-shadow:inset 0 0 70px rgba(0,0,0,.55),0 6px 26px rgba(0,0,0,.4)}
+.plz-cst-svg{position:absolute;inset:0;width:100%;height:100%}
+.plz-cst-ring{fill:none;stroke:rgba(120,170,255,.09);stroke-width:.25}
+.plz-cst-arc{fill:none;stroke:rgba(120,185,255,.32);stroke-width:.45;stroke-linecap:round}
+.plz-cst-halo{fill:rgba(90,200,255,.30);transform-box:fill-box;transform-origin:center;animation:plzCstPulse 3.4s ease-in-out infinite}
+.plz-cst-core{fill:#cdeeff;filter:drop-shadow(0 0 1.6px rgba(120,210,255,.95))}
+.plz-cst-comp{fill:rgba(150,185,235,.5);font-size:3.6px;font-family:system-ui,-apple-system,sans-serif;font-weight:700;text-anchor:middle;dominant-baseline:middle;letter-spacing:.3px}
+@keyframes plzCstPulse{0%,100%{opacity:.34;transform:scale(1)}50%{opacity:.72;transform:scale(1.22)}}
+@media (prefers-reduced-motion:reduce){.plz-cst-halo{animation:none}}
+.plz-cst-nodes{position:absolute;inset:0}
+.plz-cst-node{position:absolute;transform:translate(-50%,-50%);z-index:1}
+.plz-cst-node:hover,.plz-cst-node.open{z-index:6}
+.plz-cst-dot{display:block;width:var(--d,10px);height:var(--d,10px);border-radius:50%;cursor:pointer;background:radial-gradient(circle at 34% 30%,#f0f9ff,#5cc7ff 58%,#2a7fd0);box-shadow:0 0 0 2px rgba(8,16,34,.65),0 0 9px rgba(90,200,255,.85);transition:transform .15s;-webkit-tap-highlight-color:transparent}
+.plz-cst-dot:focus-visible{outline:2px solid #9fe0ff;outline-offset:2px}
+.plz-cst-node:hover .plz-cst-dot,.plz-cst-node.open .plz-cst-dot{transform:scale(1.28)}
+.plz-cst-card{position:absolute;left:50%;bottom:calc(100% + 7px);transform:translateX(-50%) scale(.92);transform-origin:bottom center;width:max-content;max-width:172px;background:rgba(11,19,35,.97);border:1px solid rgba(120,180,255,.28);border-radius:12px;padding:7px;display:flex;gap:8px;align-items:flex-start;opacity:0;visibility:hidden;pointer-events:none;transition:opacity .15s,transform .15s;box-shadow:0 10px 30px rgba(0,0,0,.55);text-decoration:none}
+.plz-cst-card::after{content:"";position:absolute;left:0;right:0;top:100%;height:9px}
+.plz-cst-node--low .plz-cst-card{bottom:auto;top:calc(100% + 7px);transform-origin:top center}
+.plz-cst-node--low .plz-cst-card::after{top:auto;bottom:100%}
+.plz-cst-node:hover .plz-cst-card,.plz-cst-node.open .plz-cst-card{opacity:1;visibility:visible;pointer-events:auto;transform:translateX(-50%) scale(1)}
+.plz-cst-thumb{width:46px;height:46px;border-radius:8px;overflow:hidden;flex:0 0 auto;background:#1b2942;display:flex;align-items:center;justify-content:center;font-size:1.2rem}
+.plz-cst-thumb img{width:100%;height:100%;object-fit:cover;display:block}
+.plz-cst-info{display:flex;flex-direction:column;gap:1px;min-width:0}
+.plz-cst-name{font-size:.82rem;font-weight:700;color:#eef4ff;line-height:1.18}
+.plz-cst-dist{font-size:.72rem;color:#9fc4ff}
+.plz-cst-go{font-size:.72rem;font-weight:700;color:#7fd0ff;margin-top:3px}
+@media (max-width:640px){.plz-constel{max-width:none}.plz-cst-card{max-width:150px}.plz-cst-name{font-size:.76rem}}
 ${EXPLORE_CSS}
 </style>
 <script>(function(){var box=document.getElementById('plz-lightbox');if(!box)return;var img=box.querySelector('img');var btn=box.querySelector('.plz-lightbox-close');function open(src,alt){img.src=src;img.alt=alt||'';box.classList.add('open');box.setAttribute('aria-hidden','false');document.body.style.overflow='hidden';}function close(){box.classList.remove('open');box.setAttribute('aria-hidden','true');img.src='';document.body.style.overflow='';}document.addEventListener('click',function(e){var t=e.target.closest('.plz-sight-img-btn');if(t){e.preventDefault();open(t.dataset.plzimg,t.dataset.plzalt);}});btn.addEventListener('click',close);box.addEventListener('click',function(e){if(e.target===box)close();});document.addEventListener('keydown',function(e){if(e.key==='Escape')close();});})();</script>

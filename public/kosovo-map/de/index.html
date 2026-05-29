@@ -26,22 +26,27 @@ header .langs{display:flex;gap:.25rem}
 .lang{font-size:.7rem;font-weight:700;padding:.25rem .45rem;border-radius:6px;color:#ffffffb0;text-decoration:none;background:#ffffff10}
 .lang.on{background:#3b82f6;color:#fff}
 #stage{position:absolute;inset:101px 0 0 0;overflow:hidden;touch-action:none;background:radial-gradient(ellipse at 50% 30%,#0e1233 0%,#060614 70%)}
-#svg{width:100%;height:100%;display:block;cursor:grab}
+#stage::before{content:"";position:absolute;inset:0;pointer-events:none;z-index:0;opacity:.5;background-image:radial-gradient(1.2px 1.2px at 12% 22%,#ffffff70,transparent),radial-gradient(1px 1px at 28% 68%,#ffffff55,transparent),radial-gradient(1.4px 1.4px at 47% 38%,#cfe4ff66,transparent),radial-gradient(1px 1px at 63% 18%,#ffffff50,transparent),radial-gradient(1.3px 1.3px at 78% 72%,#ffffff66,transparent),radial-gradient(1px 1px at 88% 33%,#cfe4ff55,transparent),radial-gradient(1px 1px at 38% 88%,#ffffff44,transparent),radial-gradient(1.2px 1.2px at 92% 58%,#ffffff55,transparent);background-repeat:no-repeat}
+#svg{width:100%;height:100%;display:block;cursor:grab;position:relative;z-index:1}
 #svg.drag{cursor:grabbing}
-.region{fill:#1a2240;stroke:#7aa8ff;stroke-width:1.1;stroke-opacity:.75;transition:fill .15s}
-.region:hover{fill:#2d3a78}
+.region{fill:#161e3a;stroke:#6f9bf0;stroke-width:1.1;stroke-opacity:.7;transition:fill .15s}
+.region:hover{fill:#28356e}
 .label{fill:#ffffff70;font-size:11px;font-weight:600;pointer-events:none;text-anchor:middle}
 .poi{cursor:pointer}
-.poi circle{fill:#9ca3af;stroke:#000;stroke-width:.5;transition:r .12s,opacity .12s}
-.poi.g-city circle{fill:#60a5fa}
-.poi.g-sight circle{fill:#fbbf24}
-.poi.g-nature circle{fill:#22c55e}
-.poi.g-history circle{fill:#c084fc}
-.poi.g-industry circle{fill:#fb923c}
-.poi.g-other circle{fill:#9ca3af}
-.poi.dim{opacity:.18}
+.poi circle{fill:#9ca3af;stroke:#0a0f20;stroke-width:.5;transition:r .12s,opacity .12s}
+.poi.g-city circle{fill:#7cc0ff;filter:drop-shadow(0 0 2.4px #4aa6ff)}
+.poi.g-sight circle{fill:#fcd34d;filter:drop-shadow(0 0 2.4px #f5b528)}
+.poi.g-nature circle{fill:#4ade80;filter:drop-shadow(0 0 2.4px #22c55e)}
+.poi.g-history circle{fill:#d0a6ff;filter:drop-shadow(0 0 2.4px #b266ff)}
+.poi.g-industry circle{fill:#ffb066;filter:drop-shadow(0 0 2.4px #fb923c)}
+.poi.g-other circle{fill:#b8c0cc;filter:drop-shadow(0 0 2px #9ca3af)}
+.poi.dim{opacity:.16}
+.poi.dim circle{filter:none}
+.poi,.cluster{transition:opacity .2s}
+#svg.dim-pois .poi,#svg.dim-pois .cluster{opacity:.1!important}
+#svg.dim-pois .poi circle{filter:none}
 .poi.match circle{stroke:#fff;stroke-width:1.4}
-.poi:hover circle,.poi.active circle{r:7;fill:#fff;opacity:1}
+.poi:hover circle,.poi.active circle{r:7.5;fill:#fff;opacity:1;filter:drop-shadow(0 0 6px #cfeaff) drop-shadow(0 0 11px #7fd0ff)}
 .controls{position:absolute;top:53px;left:0;right:0;z-index:4;padding:.4rem .55rem;display:flex;gap:.3rem;align-items:center;background:linear-gradient(180deg,#060614 0%,#06061400 100%)}
 .chips{display:flex;gap:.25rem;flex-shrink:0}
 .chip{flex-shrink:0;width:30px;height:30px;border-radius:8px;border:1px solid #ffffff20;background:#0d1230;cursor:pointer;display:inline-flex;align-items:center;justify-content:center;user-select:none;padding:0;opacity:.45;transition:opacity .12s,background .12s,border-color .12s}
@@ -82,7 +87,7 @@ header .langs{display:flex;gap:.25rem}
 #svg.expand .poi.in-cluster{display:initial}
 .hint{position:absolute;top:102px;left:50%;transform:translateX(-50%);background:#000000a0;backdrop-filter:blur(8px);padding:.4rem .8rem;border-radius:999px;font-size:.75rem;color:#ffffffc0;pointer-events:none;z-index:3;animation:fadeOut 4s 2s forwards}
 @keyframes fadeOut{to{opacity:0}}
-.popup{position:absolute;bottom:0;left:0;right:0;background:#0d1230;border-top:1px solid #ffffff20;padding:1rem 1.2rem 1.4rem;transform:translateY(100%);transition:transform .25s;z-index:10;box-shadow:0 -10px 40px #00000080}
+.popup{position:absolute;bottom:0;left:0;right:0;background:rgba(11,19,35,.86);backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);border-top:1px solid rgba(120,180,255,.3);border-radius:18px 18px 0 0;padding:1rem 1.2rem 1.4rem;transform:translateY(100%);transition:transform .25s;z-index:10;box-shadow:0 -12px 44px rgba(0,0,0,.6)}
 .popup.open{transform:translateY(0)}
 .popup .x{position:absolute;top:.5rem;right:.7rem;width:32px;height:32px;border-radius:50%;background:#ffffff14;border:none;color:#fff;font-size:1.1rem;cursor:pointer;z-index:2}
 .popup h2{margin:0 0 .3rem;font-size:1.1rem;font-weight:800}
@@ -101,12 +106,42 @@ header .langs{display:flex;gap:.25rem}
 .popup.mode-single .single{display:block}
 .popup.mode-list .list{display:block;max-height:60vh;overflow-y:auto;margin-right:-.5rem;padding-right:.5rem}
 .popup .list .lh{font-size:.75rem;color:#ffffff80;margin:0 0 .5rem;text-transform:uppercase;letter-spacing:.05em}
-.popup .list a{display:flex;align-items:center;gap:.55rem;padding:.55rem .55rem;border-radius:8px;text-decoration:none;color:#fff;font-size:.88rem;border-bottom:1px solid #ffffff10}
-.popup .list a:active{background:#ffffff14}
-.popup .list a .dot{width:8px;height:8px;border-radius:50%;flex-shrink:0}
-.popup .list a .n{flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
-.popup .list a .g{font-size:.65rem;color:#ffffff70;text-transform:uppercase;letter-spacing:.04em;flex-shrink:0}
-.popup .list .nl{padding:.6rem;color:#ffffff70;font-size:.85rem;font-style:italic}
+.popup .list a,.popup .list .nl{display:flex;align-items:center;gap:.6rem;padding:.4rem .45rem;border-radius:10px;text-decoration:none;color:#fff;font-size:.88rem;border-bottom:1px solid #ffffff10}
+.popup .list a:hover,.popup .list a:active{background:rgba(120,180,255,.12)}
+.popup .list .lthumb{width:42px;height:42px;border-radius:9px;flex-shrink:0;background:#1a2740 center/cover no-repeat;display:flex;align-items:center;justify-content:center}
+.popup .list .lthumb .dot{width:9px;height:9px;border-radius:50%}
+.popup .list .lbody{flex:1;min-width:0;display:flex;flex-direction:column;gap:1px}
+.popup .list .n{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;font-weight:600}
+.popup .list .g{font-size:.64rem;color:#9fc4ff;text-transform:uppercase;letter-spacing:.04em}
+.popup .list .lgo{color:#7fb0ff;font-size:1.2rem;font-weight:700;flex-shrink:0;padding-right:.3rem}
+.popup .list .nl{color:#ffffffb0;font-style:normal}
+.mapcard{position:fixed;z-index:20;width:max-content;min-width:150px;max-width:230px;background:rgba(11,19,35,.82);backdrop-filter:blur(13px);-webkit-backdrop-filter:blur(13px);border:1px solid rgba(120,180,255,.34);border-radius:14px;box-shadow:0 14px 44px rgba(0,0,0,.62),0 0 0 1px rgba(120,180,255,.08);opacity:0;visibility:hidden;pointer-events:none;transform:translate(-50%,-100%) translateY(-15px) scale(.95);transform-origin:bottom center;transition:opacity .16s,transform .16s}
+.mapcard.open{opacity:1;visibility:visible;pointer-events:auto;transform:translate(-50%,-100%) translateY(-15px) scale(1)}
+.mapcard--below{transform:translate(-50%,0) translateY(15px) scale(.95);transform-origin:top center}
+.mapcard--below.open{transform:translate(-50%,0) translateY(15px) scale(1)}
+.mapcard::after{content:"";position:absolute;left:var(--ax,50%);top:100%;transform:translateX(-50%);border:7px solid transparent;border-top-color:rgba(11,19,35,.82)}
+.mapcard--below::after{top:auto;bottom:100%;border-top-color:transparent;border-bottom-color:rgba(11,19,35,.82)}
+.mapcard .mc-img{width:100%;aspect-ratio:16/9;background:#1a2740 center/cover no-repeat;display:none;border-radius:13px 13px 0 0}
+.mapcard .mc-img.has{display:block}
+.mapcard .mc-body{padding:9px 11px 11px}
+.mapcard .mc-type{font-size:.62rem;letter-spacing:.06em;text-transform:uppercase;color:#7fb0ff;font-weight:700}
+.mapcard .mc-name{font-size:.95rem;font-weight:800;color:#eef4ff;margin:1px 0 5px;line-height:1.2}
+.mapcard .mc-desc{font-size:.76rem;color:#cfe0ff;line-height:1.4;margin:0 0 9px;display:none}
+.mapcard .mc-desc.show{display:block}
+.mapcard .mc-more{display:inline-block;background:linear-gradient(135deg,#3b82f6,#2563eb);color:#fff;text-decoration:none;font-weight:700;font-size:.78rem;padding:.42rem .75rem;border-radius:8px}
+.mapcard .mc-x{position:absolute;top:5px;right:5px;width:24px;height:24px;border-radius:50%;background:rgba(0,0,0,.5);border:none;color:#fff;font-size:.95rem;cursor:pointer;z-index:2;display:flex;align-items:center;justify-content:center;line-height:1;padding:0}
+.burst{position:fixed;inset:0;z-index:15;pointer-events:none;display:none}
+.burst.open{display:block}
+.burst-svg{position:absolute;inset:0;width:100%;height:100%;overflow:visible}
+.burst-line{stroke:rgba(120,185,255,.4);stroke-width:1.1;stroke-linecap:round;animation:burstFade .25s ease-out}
+.burst-core{fill:#cdeeff;filter:drop-shadow(0 0 5px #7fd0ff)}
+.burst-dots{position:absolute;inset:0}
+.burst-dot{position:absolute;transform:translate(-50%,-50%);pointer-events:auto;cursor:pointer;border:none;background:none;padding:0;display:flex;flex-direction:column;align-items:center;gap:3px;animation:burstPop .22s ease-out}
+.burst-dot .bd{width:15px;height:15px;border-radius:50%;background:currentColor;box-shadow:0 0 0 2px rgba(8,16,34,.6),0 0 10px currentColor;transition:transform .12s}
+.burst-dot:hover .bd,.burst-dot:focus-visible .bd{transform:scale(1.3)}
+.burst-dot .bl{font-size:.72rem;font-weight:700;color:#eef4ff;background:rgba(8,14,28,.82);border:1px solid rgba(120,180,255,.25);padding:1.5px 6px;border-radius:7px;white-space:nowrap;max-width:120px;overflow:hidden;text-overflow:ellipsis;text-shadow:0 1px 2px #000}
+@keyframes burstPop{from{opacity:0;transform:translate(-50%,-50%) scale(.4)}to{opacity:1;transform:translate(-50%,-50%) scale(1)}}
+@keyframes burstFade{from{opacity:0}to{opacity:1}}
 .zoom{position:absolute;right:.7rem;bottom:.7rem;display:flex;flex-direction:column;gap:.35rem;z-index:4}
 .zoom button{width:38px;height:38px;border-radius:8px;border:1px solid #ffffff20;background:#0d1230;color:#fff;font-size:1.2rem;font-weight:800;cursor:pointer}
 .zoom button:active{background:#1a2240}
@@ -126,7 +161,7 @@ header .langs{display:flex;gap:.25rem}
   <svg id="svg" viewBox="0 0 1000 1102" preserveAspectRatio="xMidYMid meet" aria-label="Kosovo Karte">
     <g id="gR"><path class="region" data-id="XK-001" d="M111.8,593.2L103.1,582L77.1,567.6L66.4,555.8L72.7,546.5L73.2,537.3L71.8,527.4L72,516L73.8,510.3L79.7,498.9L86.6,480.7L105,493.4L133,495.2L129,507.9L137,517L149,522.4L165,526L177,531.5L189,524.2L201,527.8L206.4,538.7L213,555L222.4,564L239.7,556.8L250.4,555L261,560.4L251.7,574.9L235.7,582.1L231.7,602.1L226.4,614.7L213,620.2L202.4,616.5L191.7,632.8L167.7,625.6L139.7,612.9L131.7,591.2L112,593.5Z"/><path class="region" data-id="XK-002" d="M162.4,716.9L156.2,715.9L152,711.1L147.5,699.6L146.7,694.6L147.6,685L146.4,679.6L143.4,675.3L135.3,668.3L132.9,663.9L133.5,659.3L138.9,651L139,645.2L136.5,639.8L129.5,633L126.6,629L112,593.5L131.7,591.2L139.7,612.9L167.7,625.6L191.7,632.8L202.4,616.5L213,620.2L226.4,614.7L231.7,602.1L235.7,582.1L251.7,574.9L261,560.4L278.4,560.4L294.4,571.3L313.9,587.4L301.4,595.5L295.9,610.7L298,630L297.6,652.7L297.5,674.8L309.6,692.4L326,704.2L334.6,709.9L343.6,718L334.6,732.1L311.3,743.3L300.2,752L278.9,774.4L270.2,764.9L206,717.4L198,716L162.4,716.9Z"/><path class="region" data-id="XK-003" d="M327.5,1031.3L327.9,1026.1L325.2,1017.4L325.1,1012.3L327.6,1003.8L330.8,999.9L334.5,997L338.8,991.5L344.3,978.6L344.3,969.6L341.7,960.3L339.3,946.3L322.9,902.9L319.8,889.7L335.7,870L351.7,853.7L370.4,848.2L390.4,846.4L406.4,851.9L421.1,853.7L431.7,851.9L438.4,864.5L440.8,883.9L430.6,896.4L425.4,911.6L419,946.4L418.4,962.4L423.4,983.9L424.9,990.6L423.2,1005.2L422.9,1007.6L417.4,1020.8L408.8,1036L404.1,1041.2L398.2,1048L387,1051.9L382,1048.2L372.1,1034.1L367.2,1031L363.9,1033.3L358.2,1044L354.4,1047.3L345.9,1047.8L339.6,1044.3L327.5,1031.3Z"/><path class="region" data-id="XK-004" d="M319.8,889.7L319.6,867.1L318.3,854.6L312.7,835.8L293,792.7L283.1,778.9L278.9,774.4L300.2,752L311.3,743.3L334.6,732.1L346.4,737.8L355.7,739.6L363.7,725.1L371.7,712.5L378.4,717.9L383.7,725.1L393.1,727L399.7,710.7L411.7,712.5L418.4,727L425.1,736L427.7,746.9L443.7,757.7L462.4,757.7L475.7,759.5L477.8,777.6L474.3,786.4L473,798.1L478.3,808.8L494,814.5L508.5,816.1L517.6,818.7L527.9,824.9L537.6,836.6L539.7,846.4L502.8,859.4L454.1,876.2L440.8,883.9L438.4,864.5L431.7,851.9L421.1,853.7L406.4,851.9L390.4,846.4L370.4,848.2L351.7,853.7L335.7,870L319.8,889.7Z"/><path class="region" data-id="XK-005" d="M812.3,773.3L803.1,766.9L806.5,745.1L799.8,727L793.1,716.1L787.8,703.4L782.5,688.9L765.1,685.3L754.3,668.2L745.1,658.2L735.8,652.7L730.5,640.1L711.7,648.5L695.8,658.2L682.4,625.6L685.7,611.9L700.5,610.4L703.8,599L699.1,586L692.9,573.1L694.8,562.1L705.3,548.8L719.8,555L731.8,551.4L742.5,562.2L751.8,569.5L763.8,562.2L761.1,545.9L771.8,540.5L781.1,547.7L794.5,547.7L805.1,567.7L817.1,580.3L829.1,596.6L825.1,612.9L847.3,619.1L862.9,624.5L874.6,624.6L873.5,635.5L876.1,657.9L873.8,668.8L863,679.1L832.1,688.6L821,700.4L820.4,717.4L840.7,748.4L846,767.9L844.8,767.3L823,773L812.3,773.3Z"/><path class="region" data-id="XK-006" d="M803.1,766.9L798.1,773L795.8,775.8L790.4,774.4L785.6,769.4L779.6,767.5L771,772.3L771.9,778.5L775.6,784.7L776.2,789.4L770.6,790L752.5,783L743.4,783.8L740.2,786.4L725.8,773.2L712,771.9L693.8,765.4L680.5,747.3L681.9,735.7L691,720.1L689.1,713.6L679.8,717.9L672.8,709.1L672.8,694.9L701.9,691.6L695.8,658.2L711.7,648.5L730.5,640.1L735.8,652.7L745.1,658.2L754.3,668.2L765.1,685.3L782.5,688.9L787.8,703.4L793.1,716.1L799.8,727L806.5,745.1L803.1,766.9Z"/><path class="region" data-id="XK-007" d="M740.2,786.4L736.6,789.3L706.1,836.6L705.4,842.8L706.5,846.6L708,850.4L708.9,856.4L709.3,870.8L709.1,872.3L708.3,877.3L702.9,878.5L680.5,873.9L676.3,873.1L671.9,868.5L669.9,866.4L665.1,856.3L656.6,842.1L638.2,823.9L618.4,808.4L611.4,804.5L607.9,803.6L603.9,803.5L601.1,788.5L601.1,777.6L609.1,774L617.1,766.8L617.1,761.4L610.4,746.9L623.8,746.9L630.4,750.5L641.1,745.1L650.4,745.1L654.4,728.8L665.1,721.5L679.8,717.9L689.1,713.6L691,720.1L681.9,735.7L680.5,747.3L693.8,765.4L712,771.9L725.8,773.2L740.1,786.1Z"/><path class="region" data-id="XK-008" d="M603.9,803.5L591.4,811.6L574,828.9L567.9,834.9L554.7,841.6L539.7,846.7L537.6,836.6L527.9,824.9L517.6,818.7L508.5,816.1L494,814.5L478.3,808.8L473,798.1L474.3,786.4L477.8,777.6L483.8,778.8L492.8,777.1L503.2,773L508.7,767.1L515.6,759.5L533.3,754.3L534,744.6L534.8,735.8L541.9,732.1L554.4,736L563.8,743.2L570.4,743.2L569.1,732.4L569.1,717.9L578.4,717.9L583.8,728.8L593.1,734.2L598.4,743.2L610.4,746.9L617.1,761.4L617.1,766.8L609.1,774L601.1,777.6L601.1,788.5L603.9,803.5Z"/><path class="region" data-id="XK-009" d="M445.7,50.1L453.7,52.5L458.8,54.1L468.6,62.2L473.9,67.7L477.3,72.4L482.3,82.4L480.7,82.3L475.4,80.6L469.4,86.1L469.8,89.7L469,99.9L467.4,109.1L465.3,109.7L468.7,115.5L507.2,137.8L549.2,162.3L546.2,175.2L546,188.5L550.5,197.4L535.8,198.4L531.8,209.2L519.8,218.3L513.1,227.3L501.1,229.1L489.1,223.7L478.4,245.4L455.7,256.3L451.7,247.2L447.7,234.6L435.7,225.5L419.7,216.5L398.4,216.5L387.7,203.8L367.4,198.9L378.4,175.5L380.6,158.3L376.8,154L371.5,153.7L365.9,154.4L361.3,153L358.2,148.5L355.3,141.7L350.9,126.4L344.7,113.1L343.3,105.2L346.7,96.1L351,93L368,92.3L379.5,87.8L420.2,57.3L432.8,51.7L445.7,50.1Z"/><path class="region" data-id="XK-010" d="M549.2,162.3L555.3,165.8L566.1,169.9L600.8,171.8L609.1,178.2L617.2,194.7L625.1,231.7L629.6,241L638.7,246.3L646,242.5L653.1,237.3L661.8,238.7L669.8,254.5L670.6,276.4L673.5,298.7L688.2,315.9L693.9,317.5L706.1,317.4L712,318.8L717.5,322.2L727.6,330.8L733,334.1L749.7,338L760.1,338.5L765.1,343.8L765.1,347.5L765,362.4L762.8,374.2L755.8,397.9L754,408.8L738.5,408.4L729.1,397.5L718.5,388.4L710.5,374L690.4,383L674.4,388.4L669.1,399.3L659.8,401.1L653.1,408.4L643.8,402.9L638.4,392.1L631.8,384.8L626.4,395.7L619.8,402.9L610.4,402.9L606.4,390.3L603.3,380.7L602.9,363.2L596.6,347.9L585.7,335.2L581.3,324.5L578.8,306L581.6,290.4L588.3,279.1L583,252.3L566.8,218.4L557.3,204L550.5,197.4L546,188.5L546.2,175.2L549.2,162.3Z"/><path class="region" data-id="XK-011" d="M336.5,230.9L342.8,230.8L353.6,220.2L379.7,225.5L401.1,240L411.7,250.9L407.7,261.7L418.4,274.4L433.1,297.9L443.7,308.8L430.4,330.5L419.7,332.3L409.1,339.6L419.7,355.9L418.4,381.2L410.4,379.4L401.1,364.9L390.4,346.8L378.4,345L370.4,346.8L360.6,360.7L351.8,342.2L340.5,327.9L326,318.8L295.7,315.9L289.7,315.3L286.9,307L275.3,299.7L267.1,290.9L271.5,271.1L280.4,259.6L289.2,256.9L298.4,256.9L308.5,253.4L312.6,249.5L315.5,244.8L320.4,234L325.1,229.1L330.5,229.2L336.5,230.9Z"/><path class="region" data-id="XK-012" d="M353.6,220.2L367.4,198.9L387.7,203.8L398.4,216.5L419.7,216.5L435.7,225.5L447.7,234.6L451.7,247.2L455.7,256.3L469.1,270.8L485.1,279.8L483.7,299.7L478.4,314.2L465.1,310.6L443.7,308.8L433.1,297.9L418.4,274.4L407.7,261.7L411.7,250.9L401.1,240L379.7,225.5L353.6,220.2Z"/><path class="region" data-id="XK-013" d="M212.2,357.6L255.2,348.3L280.3,337.8L292,322L289.7,315.3L295.7,315.9L326,318.8L340.5,327.9L351.8,342.2L360.6,360.7L368.1,385.4L365.8,403L362.1,414.6L356,432.1L356.9,449.6L343.7,450L329.1,455.4L321.1,466.3L303.7,469.9L286.4,464.5L270.4,469.9L259.7,464.5L242.4,464.5L225,455.4L211.7,442.7L205,431.9L205,413.8L205,393.9L205,375.8L198.6,360L212.2,357.6Z"/><path class="region" data-id="XK-014" d="M754,408.8L752.3,412.3L749.9,414.4L749.6,416.4L754.8,420L763.6,422.7L769.9,422.5L782.4,422.1L802,424.8L789.5,452L778.4,451.9L760.2,452.8L764.4,465.8L779.9,477.1L786.2,488.8L780.5,499L773.1,506.1L753.7,507.1L742.9,507.1L733,518.2L722.5,531.3L706.5,522.4L691.8,515.2L674.4,511.5L666.4,515.2L666.4,531.5L666.4,545.9L653.1,551.4L635.8,547.7L626.4,542.3L611.8,549.6L603.8,540.5L595.8,536.9L605.1,522.4L611.8,509.7L607.8,500.7L605.1,480.8L607.8,462.7L603.8,450L597.1,433.7L598.4,417.4L610.4,402.9L619.8,402.9L626.4,395.7L631.8,384.8L638.4,392.1L643.8,402.9L653.1,408.4L659.8,401.1L669.1,399.3L674.4,388.4L690.4,383L710.5,374L718.5,388.4L729.1,397.5L738.5,408.4L754,408.8Z"/><path class="region" data-id="XK-015" d="M802,424.8L834.8,429.4L846.6,433.4L854.6,440.4L871.3,461.5L880,467.2L887.6,467.2L910.2,456.9L921.3,456.7L936.8,460.2L939.7,462.1L950.2,469.1L954.6,484.7L951.6,490.9L946.1,494.5L939.9,497.3L934.8,501.1L935.2,503.2L932.4,517.5L931.7,519.4L930.7,520.8L927.2,522.5L926.2,524.5L927,527.6L930.6,533.8L931.1,536.5L925.9,552.7L900,595.8L879.2,616.8L874.6,624.6L862.9,624.5L847.3,619.1L825.1,612.9L829.1,596.6L817.1,580.3L805.1,567.7L794.5,547.7L802.5,535.1L795.8,520.6L787.8,515.2L773.1,506.1L780.5,499L786.2,488.8L779.9,477.1L764.4,465.8L760.2,452.8L778.4,451.9L789.5,452L802,424.8Z"/><path class="region" data-id="XK-016" d="M128,417.6L141,402.9L141.8,396.1L141,389.7L141.4,382.9L145.8,375.1L150.2,372.2L170.1,364.8L198.6,360L205,375.8L205,393.9L205,413.8L205,431.9L211.7,442.7L225,455.4L242.4,464.5L259.7,464.5L270.4,469.9L275.7,489.8L286.4,497.1L282.4,507.9L274.4,518.8L275.7,531.5L286.4,542.3L291.7,555L294.4,571.3L278.4,560.4L261,560.4L250.4,555L239.7,556.8L222.4,564L213,555L206.4,538.7L201,527.8L189,524.2L177,531.5L165,526L149,522.4L137,517L129,507.9L133,495.2L105,493.4L86.6,480.7L85.6,478.2L81.6,470.9L51.8,442.4L51.4,442L45.5,431.1L46.4,417.1L50.6,411.3L61.5,402.5L66.4,398.6L72.3,395.8L90.9,400.6L110.3,412.4L128,417.6Z"/><path class="region" data-id="XK-017" d="M334.6,732.1L343.6,718L334.6,709.9L326,704.2L309.6,692.4L297.5,674.8L297.6,652.7L298,630L295.9,610.7L301.4,595.5L313.9,587.4L330.4,603.9L341.1,607.5L357.1,605.7L369.1,605.7L377.1,618.3L374.4,634.6L382.4,656.4L394.4,665.4L405.1,672.7L402.4,687.1L399.7,710.7L393.1,727L383.7,725.1L378.4,717.9L371.7,712.5L363.7,725.1L355.7,739.6L346.4,737.8L334.6,732.1Z"/><path class="region" data-id="XK-018" d="M356.9,449.6L356,432.1L362.1,414.6L365.8,403L368.1,385.4L360.6,360.7L370.4,346.8L378.4,345L390.4,346.8L401.1,364.9L410.4,379.4L418.4,381.2L419.7,355.9L438.4,370.3L449.1,370.3L466.4,372.2L475.7,388.4L474.4,402.9L473.1,419.2L479.7,421L491.7,419.2L501.1,422.8L514.1,440L506.1,445.5L495.3,447.8L488.5,451.9L481,461.7L460.1,449.6L453.8,458.1L453.3,464.8L449.4,472.9L440.4,481.1L429.6,502.4L427.4,511.6L415.4,511.5L398,504.2L394.8,488.1L388.3,473.8L379.3,471.8L369.1,465.5L356.9,449.6Z"/><path class="region" data-id="XK-019" d="M356.9,449.6L369.1,465.5L379.3,471.8L388.3,473.8L394.8,488.1L398,504.2L415.4,511.5L427.4,511.6L405.1,545.9L387.7,545.9L353.5,572.2L327.9,581.1L313.9,587.4L294.4,571.3L291.7,555L286.4,542.3L275.7,531.5L274.4,518.8L282.4,507.9L286.4,497.1L275.7,489.8L270.4,469.9L286.4,464.5L303.7,469.9L321.1,466.3L329.1,455.4L343.7,450L356.9,449.6Z"/><path class="region" data-id="XK-020" d="M550.5,197.4L557.3,204L566.8,218.4L583,252.3L588.3,279.1L581.6,290.4L567.8,287.1L554.4,290.7L538.4,283.4L530.4,287.1L535.8,301.6L530.4,317.8L518.4,316L509.1,323.3L507.8,345L507.8,355.9L495.7,355.9L482.4,359.5L466.4,372.2L449.1,370.3L438.4,370.3L419.7,355.9L409.1,339.6L419.7,332.3L430.4,330.5L443.7,308.8L465.1,310.6L478.4,314.2L483.7,299.7L485.1,279.8L469.1,270.8L455.7,256.3L478.4,245.4L489.1,223.7L501.1,229.1L513.1,227.3L519.8,218.3L531.8,209.2L535.8,198.4L550.5,197.4Z"/><path class="region" data-id="XK-021" d="M441.2,572.8L444.1,565.3L444.7,543L442,529.6L441.2,519.6L435.7,511.6L427.4,511.6L429.6,502.4L440.4,481.1L449.4,472.9L453.3,464.8L453.8,458.1L460.1,449.6L481,461.7L488.5,451.9L495.3,447.8L506.1,445.5L514.1,440L525.5,451.9L537.4,458.6L522.4,466.3L522.4,477.1L526.4,491.6L537.1,500.7L531.8,515.2L523.8,524.2L534.4,533.3L539.8,542.3L526.4,555L523.8,567.7L513.1,574.9L501.1,574.9L491.7,585.8L479.9,590.9L475.8,576.3L472,567.9L462.7,582.7L446.5,575.7L441.2,572.8Z"/><path class="region" data-id="XK-022" d="M427.4,511.6L435.7,511.6L441.2,519.6L442,529.6L444.7,543L444.1,565.3L441.2,572.8L446.5,575.7L462.7,582.7L472,567.9L475.8,576.3L479.9,590.9L475.7,607.5L475.7,614.7L482.4,627.4L485.1,643.7L470.4,641.9L457.1,649.1L447.7,645.5L437.1,647.3L426.4,656.4L426.4,670.8L405.1,672.7L394.4,665.4L382.4,656.4L374.4,634.6L377.1,618.3L369.1,605.7L357.1,605.7L341.1,607.5L330.4,603.9L313.9,587.4L327.9,581.1L353.5,572.2L387.7,545.9L405.1,545.9L427.4,511.6Z"/><path class="region" data-id="XK-023" d="M399.7,710.7L402.4,687.1L405.1,672.7L426.4,670.8L426.4,656.4L437.1,647.3L447.7,645.5L457.1,649.1L470.4,641.9L485.1,643.7L482.4,627.4L475.7,614.7L475.7,607.5L489,610.4L497.1,622L504.3,632.2L519.5,639.9L527.5,653.4L519.9,666.3L521.4,676.2L517.2,684L525.1,690.8L531.7,703.6L533.3,715L532.5,725.9L534.8,735.8L534,744.6L533.3,754.3L515.6,759.5L508.7,767.1L503.2,773L492.8,777.1L483.8,778.8L477.8,777.6L475.7,759.5L462.4,757.7L443.7,757.7L427.7,746.9L425.1,736L418.4,727L411.7,712.5L399.7,710.7Z"/><path class="region" data-id="XK-024" d="M610.4,746.9L598.4,743.2L593.1,734.2L583.8,728.8L578.4,717.9L569.1,717.9L569.1,732.4L570.4,743.2L563.8,743.2L554.4,736L541.9,732.1L534.8,735.8L532.5,725.9L533.3,715L531.7,703.6L525.1,690.8L537.7,686.7L562.4,683.5L577.1,681.7L581.1,670.8L582.4,656.4L590.4,649.1L599.8,638.3L602.4,623.8L614.4,623.8L634.4,627.4L658.4,625.6L682.4,625.6L695.8,658.2L701.9,691.6L672.8,694.9L672.8,709.1L679.8,717.9L665.1,721.5L654.4,728.8L650.4,745.1L641.1,745.1L630.4,750.5L623.8,746.9L610.4,746.9Z"/><path class="region" data-id="XK-025" d="M781.1,547.7L771.8,540.5L761.1,545.9L763.8,562.2L751.8,569.5L742.5,562.2L731.8,551.4L719.8,555L705.3,548.8L711.9,538.3L722.5,531.3L733,518.2L742.9,507.1L753.7,507.1L773.1,506.1L787.8,515.2L795.8,520.6L802.5,535.1L794.5,547.7L781.1,547.7Z"/><path class="region" data-id="XK-026" d="M603.3,380.7L606.4,390.3L610.4,402.9L598.4,417.4L597.1,433.7L603.8,450L607.8,462.7L605.1,480.8L590.4,491.6L579.8,493.4L563.8,493.4L551.8,482.6L543.8,486.2L543.8,497.1L537.1,500.7L526.4,491.6L522.4,477.1L522.4,466.3L537.4,458.6L561.6,449.6L575.1,436.6L576.3,426.2L581.9,407.9L590.9,387.7L603.3,380.7Z"/><path class="region" data-id="XK-027" d="M563.8,493.4L579.8,493.4L590.4,491.6L605.1,480.8L607.8,500.7L611.8,509.7L605.1,522.4L595.8,536.9L581.1,542.3L563.8,538.7L551.8,544.1L539.8,542.3L534.4,533.3L523.8,524.2L531.8,515.2L537.1,500.7L543.8,497.1L543.8,486.2L551.8,482.6L563.8,493.4Z"/><path class="region" data-id="XK-028" d="M479.9,590.9L491.7,585.8L501.1,574.9L513.1,574.9L523.8,567.7L526.4,555L539.8,542.3L551.8,544.1L563.8,538.7L581.1,542.3L595.8,536.9L603.8,540.5L611.8,549.6L626.4,542.3L635.8,547.7L653.1,551.4L666.4,545.9L666.4,531.5L666.4,515.2L674.4,511.5L691.8,515.2L706.5,522.4L722.5,531.3L711.9,538.3L705.3,548.8L694.8,562.1L692.9,573.1L699.1,586L703.8,599L700.5,610.4L685.7,611.9L682.4,625.6L658.4,625.6L634.4,627.4L614.4,623.8L602.4,623.8L589.1,614.7L581.1,622L563.8,620.2L545.1,614.7L530.4,612.9L515.8,611.1L497.1,622L489,610.4L475.7,607.5L479.9,590.9Z"/><path class="region" data-id="XK-029" d="M602.4,623.8L599.8,638.3L590.4,649.1L582.4,656.4L581.1,670.8L577.1,681.7L562.4,683.5L537.7,686.7L525.1,690.8L517.2,684L521.4,676.2L519.9,666.3L527.5,653.4L519.5,639.9L504.3,632.2L497.1,622L515.8,611.1L530.4,612.9L545.1,614.7L563.8,620.2L581.1,622L589.1,614.7L602.4,623.8Z"/><path class="region" data-id="XK-030" d="M538.4,283.4L554.4,290.7L567.8,287.1L581.6,290.4L578.8,306L581.3,324.5L585.7,335.2L596.6,347.9L602.9,363.2L603.3,380.7L590.9,387.7L581.9,407.9L576.3,426.2L575.1,436.6L561.6,449.6L537.4,458.6L525.5,451.9L514.1,440L501.1,422.8L491.7,419.2L479.7,421L473.1,419.2L474.4,402.9L475.7,388.4L466.4,372.2L482.4,359.5L495.7,355.9L507.8,355.9L507.8,345L509.1,323.3L518.4,316L530.4,317.8L535.8,301.6L530.4,287.1L538.4,283.4Z"/></g>
     <g id="gL"><text class="label" x="152.64" y="558.43">Dečani</text><text class="label" x="216.49" y="658.71">Đakovica</text><text class="label" x="374.45" y="971.42">Dragaš</text><text class="label" x="407.51" y="798.7">Prizren</text><text class="label" x="781.88" y="644.68">Gnjilane</text><text class="label" x="746.32" y="735.39">Vitina</text><text class="label" x="670.37" y="797.77">Kačanik</text><text class="label" x="549.96" y="778.85">Štrpce</text><text class="label" x="441.3" y="142.23">Leposavić</text><text class="label" x="650.15" y="308.57">Podujevo</text><text class="label" x="353.95" y="291.43">Zubin Potok</text><text class="label" x="424.92" y="253.36">Zvečan</text><text class="label" x="285.06" y="398.94">Istok</text><text class="label" x="692.04" y="458.72">Priština</text><text class="label" x="867.25" y="508.79">Kosovska Kamenica</text><text class="label" x="173.91" y="466.5">Peć</text><text class="label" x="350.43" y="673.09">Orahovac</text><text class="label" x="427.04" y="426.92">Srbica</text><text class="label" x="335.56" y="505.27">Klina</text><text class="label" x="503.47" y="288.12">Kosovska Mitrovica</text><text class="label" x="484.18" y="515.77">Glogovac</text><text class="label" x="420.1" y="596.36">Mališevo</text><text class="label" x="477.58" y="696.9">Suva Reka</text><text class="label" x="602.8" y="702.39">Uroševac</text><text class="label" x="756.38" y="537.88">Novo Brdo</text><text class="label" x="573.61" y="449.83">Obilić</text><text class="label" x="566.29" y="511.44">Kosovo Polje</text><text class="label" x="605.36" y="574.77">Lipljan</text><text class="label" x="551.87" y="646.7">Štimlje</text><text class="label" x="536.34" y="364.54">Vučitrn</text></g>
-    <g id="gP"><g class="poi g-history" data-id="xk-decan" data-name="Kloster Visoki Dečani" data-search="kloster visoki decani|visoki decani kolostor|manastirea visoki decani|visoki decani monastery" data-grp="history" data-url="/de/kosovo/xk-001/kloster-visoki-decani/" transform="translate(167.8,560.6)"><circle r="3.5"/></g><g class="poi g-sight" data-id="xk-decan-mountains" data-name="Dečani-Berge" data-search="decani-berge|decani-hegyek|muntii decani|decani mountains" data-grp="sight" data-url="/de/kosovo/xk-001/decani-berge/" transform="translate(136.6,567.6)"><circle r="3.5"/></g><g class="poi g-city in-cluster" data-id="xk-gjakova" data-name="Gjakova" data-search="gjakova" data-grp="city" data-url="/de/kosovo/xk-002/gjakova/" transform="translate(256.2,673.5)"><circle r="5"/></g><g class="poi g-history in-cluster" data-id="xk-hadum-mosque" data-name="Hadum-Moschee" data-search="hadum-moschee|hadum-mecset|moscheea hadum|hadum mosque" data-grp="history" data-url="/de/kosovo/xk-002/hadum-moschee/" transform="translate(251,673.5)"><circle r="3.5"/></g><g class="poi g-city" data-id="xk-dragash" data-name="Dragash" data-search="dragash" data-grp="city" data-url="/de/kosovo/xk-003/dragash/" transform="translate(365.4,899.4)"><circle r="5"/></g><g class="poi g-city" data-id="xk-restelica" data-name="Restelica" data-search="restelica" data-grp="city" data-url="/de/kosovo/xk-003/restelica/" transform="translate(381,984.1)"><circle r="5"/></g><g class="poi g-city in-cluster" data-id="xk-prizren" data-name="Prizren" data-search="prizren" data-grp="city" data-url="/de/kosovo/xk-004/prizren/" transform="translate(417.3,790.8)"><circle r="5"/></g><g class="poi g-history in-cluster" data-id="xk-kalaja-prizren" data-name="Festung von Prizren" data-search="festung von prizren|prizren vara|cetatea prizren|prizren fortress" data-grp="history" data-url="/de/kosovo/xk-004/festung-von-prizren/" transform="translate(417.4,793.5)"><circle r="3.5"/></g><g class="poi g-city" data-id="xk-gjilan" data-name="Gjilan" data-search="gjilan" data-grp="city" data-url="/de/kosovo/xk-005/gjilan/" transform="translate(791.9,617)"><circle r="5"/></g><g class="poi g-history" data-id="xk-pogragja-castle" data-name="Burg Pogragja" data-search="burg pogragja|pogragja vara|cetatea pogragja|pogragja castle" data-grp="history" data-url="/de/kosovo/xk-005/burg-pogragja/" transform="translate(854.3,645.3)"><circle r="3.5"/></g></g>
+    <g id="gP"><g class="poi g-history" data-id="xk-decan" data-name="Kloster Visoki Dečani" data-search="kloster visoki decani|visoki decani kolostor|manastirea visoki decani|visoki decani monastery" data-grp="history" data-cx="167.8" data-cy="560.6" data-url="/de/kosovo/xk-001/kloster-visoki-decani/" transform="translate(167.8,560.6)"><circle r="3.5"/></g><g class="poi g-sight" data-id="xk-decan-mountains" data-name="Dečani-Berge" data-search="decani-berge|decani-hegyek|muntii decani|decani mountains" data-grp="sight" data-cx="136.6" data-cy="567.6" data-url="/de/kosovo/xk-001/decani-berge/" transform="translate(136.6,567.6)"><circle r="3.5"/></g><g class="poi g-city in-cluster" data-id="xk-gjakova" data-name="Gjakova" data-search="gjakova" data-grp="city" data-cx="256.2" data-cy="673.5" data-url="/de/kosovo/xk-002/gjakova/" transform="translate(256.2,673.5)"><circle r="5"/></g><g class="poi g-history in-cluster" data-id="xk-hadum-mosque" data-name="Hadum-Moschee" data-search="hadum-moschee|hadum-mecset|moscheea hadum|hadum mosque" data-grp="history" data-cx="251" data-cy="673.5" data-url="/de/kosovo/xk-002/hadum-moschee/" transform="translate(251,673.5)"><circle r="3.5"/></g><g class="poi g-city" data-id="xk-dragash" data-name="Dragash" data-search="dragash" data-grp="city" data-cx="365.4" data-cy="899.4" data-url="/de/kosovo/xk-003/dragash/" transform="translate(365.4,899.4)"><circle r="5"/></g><g class="poi g-city" data-id="xk-restelica" data-name="Restelica" data-search="restelica" data-grp="city" data-cx="381" data-cy="984.1" data-url="/de/kosovo/xk-003/restelica/" transform="translate(381,984.1)"><circle r="5"/></g><g class="poi g-city in-cluster" data-id="xk-prizren" data-name="Prizren" data-search="prizren" data-grp="city" data-cx="417.3" data-cy="790.8" data-url="/de/kosovo/xk-004/prizren/" transform="translate(417.3,790.8)"><circle r="5"/></g><g class="poi g-history in-cluster" data-id="xk-kalaja-prizren" data-name="Festung von Prizren" data-search="festung von prizren|prizren vara|cetatea prizren|prizren fortress" data-grp="history" data-cx="417.4" data-cy="793.5" data-url="/de/kosovo/xk-004/festung-von-prizren/" transform="translate(417.4,793.5)"><circle r="3.5"/></g><g class="poi g-city" data-id="xk-gjilan" data-name="Gjilan" data-search="gjilan" data-grp="city" data-cx="791.9" data-cy="617" data-url="/de/kosovo/xk-005/gjilan/" transform="translate(791.9,617)"><circle r="5"/></g><g class="poi g-history" data-id="xk-pogragja-castle" data-name="Burg Pogragja" data-search="burg pogragja|pogragja vara|cetatea pogragja|pogragja castle" data-grp="history" data-cx="854.3" data-cy="645.3" data-url="/de/kosovo/xk-005/burg-pogragja/" transform="translate(854.3,645.3)"><circle r="3.5"/></g></g>
     <g id="gC"><g class="cluster" data-i="0" data-grps="city,history" data-cx="253.6" data-cy="673.5" transform="translate(253.6,673.5)"><circle r="8.0" fill="#60a5fa" stroke="#000" stroke-width=".8" fill-opacity=".88"/><text y="3.5" text-anchor="middle" font-size="8.8" font-weight="800" fill="#0a0a1f">2</text></g><g class="cluster" data-i="1" data-grps="city,history" data-cx="417.4" data-cy="792.1" transform="translate(417.4,792.1)"><circle r="8.0" fill="#60a5fa" stroke="#000" stroke-width=".8" fill-opacity=".88"/><text y="3.5" text-anchor="middle" font-size="8.8" font-weight="800" fill="#0a0a1f">2</text></g></g>
   </svg>
   <div class="zoom"><button id="zin" aria-label="zoom in">+</button><button id="zout" aria-label="zoom out">−</button></div>
@@ -144,6 +179,17 @@ header .langs{display:flex;gap:.25rem}
   </div>
   <div class="list" id="plist"></div>
 </div>
+<div class="mapcard" id="mapcard" role="dialog" aria-modal="false">
+  <button class="mc-x" id="mcx" aria-label="close">×</button>
+  <div class="mc-img" id="mcImg"></div>
+  <div class="mc-body">
+    <div class="mc-type" id="mcType"></div>
+    <div class="mc-name" id="mcName"></div>
+    <p class="mc-desc" id="mcDesc"></p>
+    <a class="mc-more" id="mcMore" href="#">Mehr erfahren →</a>
+  </div>
+</div>
+<div class="burst" id="burst"><svg class="burst-svg" id="burstSvg"></svg><div class="burst-dots" id="burstDots"></div></div>
 <script>
 const LANG="de",W=1000,H=1102;
 const CLUSTERS=[[{"id":"xk-gjakova","name":"Gjakova","grp":"city","url":"/de/kosovo/xk-002/gjakova/","cx":256.2,"cy":673.5},{"id":"xk-hadum-mosque","name":"Hadum-Moschee","grp":"history","url":"/de/kosovo/xk-002/hadum-moschee/","cx":251,"cy":673.5}],[{"id":"xk-prizren","name":"Prizren","grp":"city","url":"/de/kosovo/xk-004/prizren/","cx":417.3,"cy":790.8},{"id":"xk-kalaja-prizren","name":"Festung von Prizren","grp":"history","url":"/de/kosovo/xk-004/festung-von-prizren/","cx":417.4,"cy":793.5}]];
@@ -152,7 +198,7 @@ const svg=document.getElementById('svg'),stage=document.getElementById('stage');
 const gR=document.getElementById('gR'),gL=document.getElementById('gL'),gP=document.getElementById('gP'),gC=document.getElementById('gC');
 const EXPAND_SCALE=3.5;
 let s=1,tx=0,ty=0;
-function ap(){const tr='translate('+tx+','+ty+') scale('+s+')';gR.setAttribute('transform',tr);gL.setAttribute('transform',tr);gP.setAttribute('transform',tr);if(gC)gC.setAttribute('transform',tr);svg.classList.toggle('expand',s>=EXPAND_SCALE)}
+function ap(){const tr='translate('+tx+','+ty+') scale('+s+')';gR.setAttribute('transform',tr);gL.setAttribute('transform',tr);gP.setAttribute('transform',tr);if(gC)gC.setAttribute('transform',tr);svg.classList.toggle('expand',s>=EXPAND_SCALE);if(typeof closeMapcard==='function')closeMapcard();if(typeof closeBurst==='function')closeBurst()}
 function clmp(v){return Math.max(.5,Math.min(8,v))}
 function toVb(cx,cy){const r=svg.getBoundingClientRect();return[(cx-r.left)*(W/r.width),(cy-r.top)*(H/r.height)]}
 function zoomAt(f,cx,cy){const[vx,vy]=toVb(cx,cy);const ns=clmp(s*f);const k=ns/s;tx=vx-k*(vx-tx);ty=vy-k*(vy-ty);s=ns;ap()}
@@ -171,33 +217,82 @@ svg.addEventListener('touchmove',e=>{if(e.touches.length===2){const[a,b]=e.touch
 const pop=document.getElementById('popup');
 const GCOL2={city:'#60a5fa',sight:'#fbbf24',nature:'#22c55e',history:'#c084fc',industry:'#fb923c',other:'#9ca3af'};
 function clearMode(){pop.classList.remove('mode-single','mode-list')}
-function openPopup(el){
-  document.querySelectorAll('.poi.active').forEach(n=>n.classList.remove('active'));
-  el.classList.add('active');
-  const t=el.getAttribute('data-grp')||'';
-  const id=el.getAttribute('data-id');
-  document.getElementById('ptype').textContent=t;
-  document.getElementById('pname').textContent=el.getAttribute('data-name')||id;
-  const u=el.getAttribute('data-url');
-  const moreBtn=document.getElementById('pmore');
-  if(u){moreBtn.href=u;moreBtn.style.display=''}else{moreBtn.style.display='none'}
-  // Card data (image + 1-sentence desc + 2 facts) — only when we have it for this POI.
-  const c=POI_CARD[id]||{};
-  const card=document.getElementById('pcard');
-  if(c.i){card.style.backgroundImage='url("'+c.i.replace(/"/g,'\"')+'")';card.classList.add('has-img')}else{card.classList.remove('has-img');card.style.backgroundImage=''}
-  const pd=document.getElementById('pdesc');
-  if(c.s){pd.textContent=c.s;pd.classList.add('show')}else{pd.textContent='';pd.classList.remove('show')}
-  const pf=document.getElementById('pfacts');
-  if(c.f&&c.f.length){pf.innerHTML=c.f.map(s=>'<li>'+String(s).replace(/[<>]/g,'')+'</li>').join('');pf.classList.add('show')}else{pf.innerHTML='';pf.classList.remove('show')}
-  clearMode();pop.classList.add('mode-single','open');
+const mapcard=document.getElementById('mapcard');
+let mcActiveEl=null;
+function markerScreen(cx,cy){const r=svg.getBoundingClientRect();const sc=Math.min(r.width/W,r.height/H);const ox=(r.width-W*sc)/2,oy=(r.height-H*sc)/2;return[r.left+ox+(cx*s+tx)*sc,r.top+oy+(cy*s+ty)*sc];}
+function placeMapcardAt(sx,sy){
+  const below=sy<195;
+  mapcard.classList.toggle('mapcard--below',below);
+  const cw=mapcard.offsetWidth||190;const half=cw/2+10;
+  const left=Math.max(half,Math.min(window.innerWidth-half,sx));
+  // keep the arrow pointing at the marker even after horizontal clamping
+  const ax=Math.max(12,Math.min(cw-12,cw/2+(sx-left)));
+  mapcard.style.setProperty('--ax',ax+'px');
+  mapcard.style.left=left+'px';
+  mapcard.style.top=sy+'px';
 }
-function openClusterList(i){const all=CLUSTERS[i];if(!all)return;const sInEl=document.getElementById('searchIn');const q=sInEl?norm(sInEl.value.trim()):'';const list=all.filter(p=>{if(!activeGrps.has(p.grp))return false;if(q&&!((POI_SEARCH_BY_ID[p.id]||'').includes(q)))return false;return true});const el=document.getElementById('plist');el.innerHTML='<p class="lh">'+list.length+' '+(LANG==='hu'?'hely ezen a környéken':LANG==='de'?'Orte in dieser Gegend':LANG==='ro'?'locuri în zonă':'places nearby')+'</p>'+list.map(p=>p.url?'<a href="'+p.url+'"><span class="dot" style="background:'+(GCOL2[p.grp]||'#9ca3af')+'"></span><span class="n">'+escAttrJs(p.name)+'</span><span class="g">'+p.grp+'</span></a>':'<div class="nl"><span class="dot" style="background:'+(GCOL2[p.grp]||'#9ca3af')+';display:inline-block;width:8px;height:8px;border-radius:50%;margin-right:.5rem"></span>'+escAttrJs(p.name)+'</div>').join('');clearMode();pop.classList.add('mode-list','open')}
+function placeMapcard(cx,cy){const[sx,sy]=markerScreen(cx,cy);placeMapcardAt(sx,sy);}
+function closeMapcard(){if(!mapcard.classList.contains('open'))return;mapcard.classList.remove('open');if(mcActiveEl){mcActiveEl.classList.remove('active');mcActiveEl=null}}
+function fillCard(d){
+  const id=d.id;
+  mapcard.querySelector('.mc-type').textContent=d.grp||'';
+  mapcard.querySelector('.mc-name').textContent=d.name||id;
+  const mb=mapcard.querySelector('.mc-more');
+  if(d.url){mb.href=d.url;mb.style.display=''}else{mb.style.display='none'}
+  const c=POI_CARD[id]||{};
+  const img=mapcard.querySelector('.mc-img');
+  if(c.i){img.style.backgroundImage='url("'+c.i.replace(/"/g,'\"')+'")';img.classList.add('has')}else{img.classList.remove('has');img.style.backgroundImage=''}
+  const ds=mapcard.querySelector('.mc-desc');
+  if(c.s){ds.textContent=c.s;ds.classList.add('show')}else{ds.textContent='';ds.classList.remove('show')}
+}
+function openPopup(el){
+  closePopup();
+  el.classList.add('active');mcActiveEl=el;
+  fillCard({id:el.getAttribute('data-id'),name:el.getAttribute('data-name'),grp:el.getAttribute('data-grp'),url:el.getAttribute('data-url')});
+  const cx=+el.getAttribute('data-cx')||0,cy=+el.getAttribute('data-cy')||0;
+  mapcard.classList.add('open');
+  placeMapcard(cx,cy);
+}
+// Cluster "burst": fan the POIs out around the cluster center as glow dots
+// linked by light arcs. Big clusters (>=15) just fly-zoom in instead.
+const burst=document.getElementById('burst'),burstSvg=document.getElementById('burstSvg'),burstDots=document.getElementById('burstDots');
+let burstData={};
+function closeBurst(){if(!burst.classList.contains('open'))return;burst.classList.remove('open');burstSvg.innerHTML='';burstDots.innerHTML='';burstData={};if(!pop.classList.contains('open'))svg.classList.remove('dim-pois')}
+function openBurst(clEl){
+  closePopup();
+  const i=+clEl.getAttribute('data-i');
+  const ccx=+clEl.getAttribute('data-cx')||0,ccy=+clEl.getAttribute('data-cy')||0;
+  const sInEl=document.getElementById('searchIn');const q=sInEl?norm(sInEl.value.trim()):'';
+  const list=(CLUSTERS[i]||[]).filter(p=>{if(!activeGrps.has(p.grp))return false;if(q&&!((POI_SEARCH_BY_ID[p.id]||'').includes(q)))return false;return true});
+  if(!list.length)return;
+  if(list.length>=15){openClusterList(i);return;}
+  svg.classList.add('dim-pois');
+  const[CX,CY]=markerScreen(ccx,ccy);
+  const n=list.length,ring1=Math.min(n,7),r1=72,r2=124;
+  let lines='',html='';
+  list.forEach((p,k)=>{
+    const inner=k<ring1,cnt=inner?ring1:(n-ring1),idx=inner?k:(k-ring1);
+    const R=inner?r1:r2,off=inner?-Math.PI/2:(-Math.PI/2+Math.PI/Math.max(1,cnt));
+    const a=off+idx*(2*Math.PI/Math.max(1,cnt));
+    const dx=CX+R*Math.cos(a),dy=CY+R*Math.sin(a),col=GCOL2[p.grp]||'#9ca3af';
+    lines+='<line class="burst-line" x1="'+CX.toFixed(1)+'" y1="'+CY.toFixed(1)+'" x2="'+dx.toFixed(1)+'" y2="'+dy.toFixed(1)+'"/>';
+    html+='<button class="burst-dot" data-id="'+escAttrJs(p.id)+'" style="left:'+dx.toFixed(1)+'px;top:'+dy.toFixed(1)+'px;color:'+col+'"><span class="bd"></span><span class="bl">'+escAttrJs(p.name)+'</span></button>';
+  });
+  burstSvg.innerHTML=lines+'<circle class="burst-core" cx="'+CX.toFixed(1)+'" cy="'+CY.toFixed(1)+'" r="6"/>';
+  burstDots.innerHTML=html;
+  burstData=Object.fromEntries(list.map(p=>[p.id,p]));
+  burst.classList.add('open');
+}
+burstDots.addEventListener('click',e=>{const b=e.target.closest('.burst-dot');if(!b)return;e.stopPropagation();const p=burstData[b.getAttribute('data-id')];if(!p)return;fillCard(p);mapcard.classList.add('open');placeMapcardAt(parseFloat(b.style.left),parseFloat(b.style.top));});
+function openClusterList(i){const all=CLUSTERS[i];if(!all)return;closeMapcard();closeBurst();const sInEl=document.getElementById('searchIn');const q=sInEl?norm(sInEl.value.trim()):'';const list=all.filter(p=>{if(!activeGrps.has(p.grp))return false;if(q&&!((POI_SEARCH_BY_ID[p.id]||'').includes(q)))return false;return true});const el=document.getElementById('plist');function row(p){const c=POI_CARD[p.id]||{};const col=GCOL2[p.grp]||'#9ca3af';const th=c.i?'<span class="lthumb" style="background-image:url('+String(c.i).replace(/[()]/g,'')+')"></span>':'<span class="lthumb ln" style="background:'+col+'22;color:'+col+'"><span class="dot" style="background:'+col+'"></span></span>';const body='<span class="lbody"><span class="n">'+escAttrJs(p.name)+'</span><span class="g">'+p.grp+'</span></span>';return p.url?'<a href="'+p.url+'">'+th+body+'<span class="lgo">›</span></a>':'<div class="nl">'+th+body+'</div>';}svg.classList.add('dim-pois');el.innerHTML='<p class="lh">'+list.length+' '+(LANG==='hu'?'hely ezen a környéken':LANG==='de'?'Orte in dieser Gegend':LANG==='ro'?'locuri în zonă':'places nearby')+'</p>'+list.map(row).join('');clearMode();pop.classList.add('mode-list','open')}
 function escAttrJs(s){return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;')}
 gP.addEventListener('click',e=>{const el=e.target.closest('.poi');if(el){e.stopPropagation();openPopup(el)}});
-if(gC){gC.addEventListener('click',e=>{const cl=e.target.closest('.cluster');if(!cl)return;e.stopPropagation();openClusterList(+cl.getAttribute('data-i'))})}
-function closePopup(){pop.classList.remove('open');clearMode();document.querySelectorAll('.poi.active').forEach(n=>n.classList.remove('active'))}
+if(gC){gC.addEventListener('click',e=>{const cl=e.target.closest('.cluster');if(!cl)return;e.stopPropagation();openBurst(cl)})}
+function closePopup(){pop.classList.remove('open');clearMode();closeMapcard();closeBurst();svg.classList.remove('dim-pois');document.querySelectorAll('.poi.active').forEach(n=>n.classList.remove('active'))}
 document.getElementById('px').onclick=closePopup;
-stage.addEventListener('click',e=>{if(!e.target.closest('.poi')&&!e.target.closest('.cluster')&&!e.target.closest('.popup')){closePopup()}});
+document.getElementById('mcx').onclick=function(e){e.stopPropagation();closeMapcard()};
+mapcard.addEventListener('click',e=>e.stopPropagation());
+stage.addEventListener('click',e=>{if(!e.target.closest('.poi')&&!e.target.closest('.cluster')&&!e.target.closest('.popup')&&!e.target.closest('.mapcard')&&!e.target.closest('.burst-dot')){closePopup()}});
 // Chip toggle: hide POIs of disabled group
 const activeGrps=new Set(["city","sight","history"]);
 function applyGrpFilter(){
