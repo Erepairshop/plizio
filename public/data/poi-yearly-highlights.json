@@ -35109,6 +35109,31 @@
         "end_time": null
       },
       "dist_km": 0.34
+    },
+    {
+      "title": {
+        "de": "Nancyphonies 2026 - Klavierabend Emil Ribarski",
+        "hu": "Nancyphonies 2026 - Emil Ribarski zongoraestje",
+        "ro": "Nancyphonies 2026 - Recital de pian Emil Ribarski",
+        "en": "Nancyphonies 2026 - Emil Ribarski Piano Recital",
+        "fr": "Nancyphonies 2026 - Récital de Piano - Emil Ribarski"
+      },
+      "summary": {
+        "de": "Im Rahmen der Nancyphonies lädt Emil Ribarski zu einem virtuosen Klavierabend ein. Genießen Sie klassische Meisterwerke in der festlichen Atmosphäre dieses traditionsreichen Festivals.",
+        "hu": "A Nancyphonies keretében Emil Ribarski virtuóz zongoraestjét hallgathatják meg. Élje át a klasszikus zene varázsát Nancy egyik legszebb kulturális eseményén.",
+        "ro": "În cadrul festivalului Nancyphonies, pianistul Emil Ribarski oferă un recital plin de emoție. Descoperiți excelența muzicală într-un cadru festiv și accesibil tuturor.",
+        "en": "As part of Nancyphonies, Emil Ribarski performs a masterly piano recital. Experience the brilliance of classical music in the welcoming atmosphere of this renowned festival.",
+        "fr": "Depuis plus de 30 ans, le festival des Nancyphonies fait rayonner la musique classique dans le Grand Est dans une atmosphère conviviale et accessible à tous. Chaque édition met à l’honneur un programme riche de concerts et de masterclasses publiques, réunissant de jeunes talents prometteurs et des artistes de renommée internationale, pour offrir au public des moments musicaux d’exception.\n\nEmil Ri"
+      },
+      "date": "2026-07-08",
+      "source_url": "https://data.datatourisme.fr/10/0254414b-453a-3eda-a34d-30fb6ad37083",
+      "period": {
+        "recurrent": true,
+        "applies_on_day": "Wednesday",
+        "start_time": "18:00:00",
+        "end_time": null
+      },
+      "dist_km": 0.67
     }
   ],
   "remiremont": [
@@ -35460,6 +35485,31 @@
         "end_time": "19:00:00"
       },
       "dist_km": 0.3
+    },
+    {
+      "title": {
+        "de": "Theater - Liebe und Intimität bei Senioren",
+        "hu": "Színház - Szerelem és magány időskorban",
+        "ro": "Teatru - Dragoste și singurătate la seniori",
+        "en": "Theater - Love and Solitude in Seniors",
+        "fr": "Théâtre - Amour séxualité et solitude chez les séniors"
+      },
+      "summary": {
+        "de": "Ein lustiges und zugleich bewegendes Stück der Truppe RAMDAM über ein Tabuthema. 12 Sketche und Lieder erzählen vom Bedürfnis nach Liebe im Alter.",
+        "hu": "A RAMDAM társulat szórakoztató, mégis megható előadása egy tabutémáról. 12 jelenet és 4 dal mesél a szeretet és az összetartozás iránti vágyról időskorban.",
+        "ro": "Un spectacol amuzant și emoționant despre un subiect tabu, prezentat de trupa RAMDAM. 12 schițe și cântece despre nevoia de a iubi la orice vârstă.",
+        "en": "A funny and moving play by the RAMDAM troupe tackling a taboo subject. 12 sketches and songs explore the need for love and intimacy in later life.",
+        "fr": "Représentation théâtrale mise en scène de Loren Christmann et présentée par la Troupe RAMDAM.\n\nUn spectacle drôle parfois déjanté mais aussi sérieux et émouvant sur un sujet tabou interprété par huit comédiens de la troupe RAMDAM.\n12 sketchs et 4 chansons pour parler du besoin d'aimer et d'être aimer.\n\n\nBilletterie à l'Office de tourisme d'Epinal et de sa Région."
+      },
+      "date": "2026-05-30",
+      "source_url": "https://data.datatourisme.fr/10/16b2de54-9e94-3af8-ad33-94fd7dac3f34",
+      "period": {
+        "recurrent": true,
+        "applies_on_day": "Saturday",
+        "start_time": "19:00:00",
+        "end_time": null
+      },
+      "dist_km": 1.16
     }
   ],
   "commercy": [
@@ -35805,6 +35855,32 @@
         "end_time": "22:00:00"
       },
       "dist_km": 3.04
+    },
+    {
+      "title": {
+        "de": "Gospelchor-Konzert",
+        "hu": "Gospel kóruskoncert",
+        "ro": "Concert de Cor Gospel",
+        "en": "Gospel Choir Concert",
+        "fr": "Concert Chorale Gospel"
+      },
+      "summary": {
+        "de": "Erleben Sie die kraftvollen Stimmen lokaler Gospelsänger bei freiem Eintritt. Vor Ort werden kleine Snacks und Erfrischungen für die Besucher angeboten.",
+        "hu": "Kedvenc gospel énekeseinek koncertje ingyenes belépéssel. A helyszínen könnyű ételek és italok várják a látogatókat a zenei élmény mellett.",
+        "ro": "Bucurați-vă de vocile cântăreților de gospel într-un concert cu intrare liberă. La fața locului vor fi disponibile gustări și băuturi răcoritoare.",
+        "en": "Enjoy the powerful voices of your favorite gospel singers. Free entry and light refreshments will be available for all guests on site.",
+        "fr": "Venez nombreux (ré)entendre la voix de vos chanteurs de Gospel préférés ! L'entrée est libre et de la petite restauration sera proposée sur place."
+      },
+      "date": "2026-05-30",
+      "source_url": "https://data.datatourisme.fr/10/e23800de-534a-3db3-ac9c-71d9f2d2d83f",
+      "image_url": "https://opendata.sitlor.fr/photos/1371/1371002069_4_800x600.jpg",
+      "period": {
+        "recurrent": true,
+        "applies_on_day": "Saturday",
+        "start_time": "18:30:00",
+        "end_time": "20:00:00"
+      },
+      "dist_km": 9.33
     }
   ],
   "le-sablon": [
@@ -35992,6 +36068,32 @@
         "end_time": null
       },
       "dist_km": 2.14
+    },
+    {
+      "title": {
+        "de": "Konzert des Geigenbauer-Schülerchors",
+        "hu": "Hangszerkészítő növendékek kóruskoncertje",
+        "ro": "Concertul corului elevilor lutieri",
+        "en": "Concert of the Luthier Students' Choir",
+        "fr": "Concert du chœur des élèves luthiers"
+      },
+      "summary": {
+        "de": "Die Schüler der Geigenbauschule Mirecourt präsentieren ein Repertoire von der Renaissance bis heute. Ein vielseitiges Konzert im besonderen Ambiente des Museums.",
+        "hu": "A mirecourt-i hangszerkészítő iskola diákjainak koncertje a reneszánsztól a modern korig. Jean-Baptiste Brungard vezényletével csendülnek fel világzenei és klasszikus darabok.",
+        "ro": "Elevii școlii de luterie din Mirecourt prezintă un repertoriu variat, de la Renaștere până în prezent. Un concert eclectic susținut în incinta Muzeului din Mirecourt.",
+        "en": "Students from the Mirecourt violin-making school perform a repertoire ranging from the Renaissance to today. An eclectic concert led by Jean-Baptiste Brungard.",
+        "fr": "Concert du chœur des élèves luthiers.\nLe Chœur des élèves luthiers vous invite au Musée de Mirecourt pour son traditionnel concert de fin d’année. Au programme, un répertoire éclectique entre musiques du monde et pièces occidentales de la Renaissance à nos jours.\nSous la direction de Jean-Baptiste Brungard, professeur de musique à l’École nationale de lutherie.\nRéservation au Musée de Mirecourt (p"
+      },
+      "date": "2026-06-04",
+      "source_url": "https://data.datatourisme.fr/10/6dcd26b1-efd1-3ec4-9a5f-ff74bdb2eede",
+      "image_url": "https://opendata.sitlor.fr/photos/1297/1297003754_4_800x600.jpg",
+      "period": {
+        "recurrent": true,
+        "applies_on_day": "Thursday",
+        "start_time": "18:30:00",
+        "end_time": null
+      },
+      "dist_km": 0.52
     }
   ],
   "woippy": [
@@ -36255,6 +36357,31 @@
         "end_time": null
       },
       "dist_km": 0.14
+    },
+    {
+      "title": {
+        "de": "Internationale Biennale der Feuerkünste",
+        "hu": "I. Nemzetközi Tűzművészeti Biennále",
+        "ro": "Bienala Internațională a Artelor Focului",
+        "en": "1st International Biennial of Fire Arts",
+        "fr": "1ère édition - Biennale Internationale des Arts du Feu"
+      },
+      "summary": {
+        "de": "Baccarat feiert die Exzellenz des Handwerks mit der ersten Biennale der Feuerkünste. Erleben Sie faszinierende Werke aus Glas und Kristall in der weltberühmten Stadt des Kunsthandwerks.",
+        "hu": "Baccarat városa az üvegművészet és a kristálykészítés kiválóságát ünnepli az első Tűzművészeti Biennálén. Fedezze fel a lenyűgöző alkotásokat a világszerte elismert művészeti központban.",
+        "ro": "Orașul Baccarat găzduiește prima ediție a Bienalei Internaționale a Artelor Focului, celebrând excelența meșteșugului. Un eveniment de prestigiu dedicat artelor sticlei și cristalului.",
+        "en": "Baccarat hosts the first edition of the International Biennial of Fire Arts, showcasing excellence in craftsmanship. Explore stunning glass and crystal works in this world-renowned city of art.",
+        "fr": "Le Pôle International des Arts du Feu, en collaboration avec l’Association Baccanale et la Ville de Baccarat, a le plaisir d’annoncer l’organisation de la première édition de la Biennale Internationale des Arts du Feu. L'évènement prend naturellement place au cœur de Baccarat, ville emblématique dont le nom prestigieux résonne à l’échelle mondiale et incarne l’excellence des arts et des savoir-fai"
+      },
+      "date": "2026-06-20",
+      "source_url": "https://data.datatourisme.fr/10/ae42fa69-011c-3147-9f25-afa19ac2196a",
+      "period": {
+        "recurrent": true,
+        "applies_on_day": null,
+        "start_time": "10:00:00",
+        "end_time": "18:00:00"
+      },
+      "dist_km": 0.42
     }
   ],
   "creutzwald": [
@@ -36311,6 +36438,58 @@
         "end_time": "17:00:00"
       },
       "dist_km": 7.16
+    },
+    {
+      "title": {
+        "de": "Vocal'Avenue Konzert in Volmunster",
+        "hu": "Vocal'Avenue koncert Volmunsterben",
+        "ro": "Concert Vocal'Avenue la Volmunster",
+        "en": "Vocal'Avenue Concert in Volmunster",
+        "fr": "Vocal'Avenue chante à Volmunster"
+      },
+      "summary": {
+        "de": "Die Chorgruppe Vocal’Avenue präsentiert in der Kirche von Volmunster ein außergewöhnliches Konzert. Das Repertoire reicht von klassischen Spirituals bis hin zu modernen Hits von Sister Act und Pentatonix.",
+        "hu": "A Vocal’Avenue kórus különleges hangversenyt ad a volmunsteri plébániatemplomban. A zongorával és dobbal kísért előadás a spirituáléktól a modern slágerekig terjed.",
+        "ro": "Corul Vocal’Avenue susține un concert extraordinar în biserica din Volmunster. Repertoriul include armonii vibrante, de la spirituals vechi până la piese din Sister Act și Pentatonix.",
+        "en": "The Vocal’Avenue choir performs a unique concert in Volmunster church, accompanied by piano and drums. Their repertoire spans from old spirituals to modern hits like Sister Act and Pentatonix.",
+        "fr": "L’église paroissiale de Volmunster accueille les choristes de Vocal’Avenue pour un concert choral hors du commun. Accompagnés de piano et de batterie le groupe vocal et ses solistes feront résonner l’édifice par des harmonies vibrantes, des émotions et une énergie communicative. Ils présenteront un répertoire entre anciens spirituals et les chansons de Sister Act kel à Pentatonix. Deux thèmes de S"
+      },
+      "date": "2026-06-13",
+      "source_url": "https://data.datatourisme.fr/10/2f9d6226-042e-3bf6-baac-651346ce398d",
+      "image_url": "https://opendata.sitlor.fr/photos/853/853149014_4_800x600.jpeg",
+      "period": {
+        "recurrent": true,
+        "applies_on_day": "Saturday",
+        "start_time": "20:00:00",
+        "end_time": "22:00:00"
+      },
+      "dist_km": 9.34
+    },
+    {
+      "title": {
+        "de": "Fräulein Libelle",
+        "hu": "Szitakötők nyomában",
+        "ro": "Domnișoara Libelulă",
+        "en": "Miss Dragonfly",
+        "fr": "Mademoiselle libellule"
+      },
+      "summary": {
+        "de": "Entdecken Sie bei einer Wanderung am Wasser die faszinierende Welt der Libellen. Lernen Sie, diese farbenfrohen Jäger der Lüfte zu bestimmen. Anmeldung erforderlich.",
+        "hu": "Vízparti séta során ismerkedjen meg a szitakötők színpompás világával! Tanulja meg felismerni ezeket a különleges ragadozókat szakértő vezetés mellett. Regisztráció kötelező.",
+        "ro": "Descoperiți libelulele și culorile lor vibrante în cadrul unei plimbări pe malul apei. Veți învăța să identificați acești vânători redutabili ai naturii. Înscriere obligatorie.",
+        "en": "Discover the vibrant world of dragonflies during a guided walk by the water. Learn to identify these elegant aerial hunters. Free participation, registration required.",
+        "fr": "Lors d’une balade au bord de l’eau, venez découvrir libellules et demoiselles, à l’élégance et aux couleurs flamboyantes. Par une approche active, vous apprendrez à identifier ces chasseuses redoutables de l’ordre des odonates.\n\nAucune participation demandée.\nCette sortie est financée par la Région Grand Est et l'Agence de l'Eau Rhin-Meuse.\n\nInscription obligatoire via ce lien : https://www.helloa"
+      },
+      "date": "2026-06-20",
+      "source_url": "https://data.datatourisme.fr/10/417d7b79-f06a-3a76-baa1-3973a50afab8",
+      "image_url": "https://opendata.sitlor.fr/photos/853/853148965_4_800x600.jpeg",
+      "period": {
+        "recurrent": true,
+        "applies_on_day": "Saturday",
+        "start_time": "10:00:00",
+        "end_time": "12:00:00"
+      },
+      "dist_km": 1.86
     }
   ],
   "luneville": [
@@ -37127,6 +37306,31 @@
         "end_time": "18:00:00"
       },
       "dist_km": 2.15
+    },
+    {
+      "title": {
+        "de": "Ausstellung in der Galerie Têt' de l'Art",
+        "hu": "Kiállítás a Têt' de l'Art galériában",
+        "ro": "Expoziție la galeria Têt' de l'Art",
+        "en": "Exhibition at Galerie Têt' de l'Art",
+        "fr": "Exposition galerie Têt' de l'Art"
+      },
+      "summary": {
+        "de": "Die Galerie Têt' de l'Art präsentiert ihre neueste Kunstausstellung. Entdecken Sie zeitgenössische Werke in inspirierender Atmosphäre.",
+        "hu": "A Têt' de l'Art galéria bemutatja legújabb időszaki kiállítását. Fedezze fel a kortárs művészek alkotásait Forbach szívében.",
+        "ro": "Galeria Têt' de l'Art vă propune o nouă sesiune de expoziții. Descoperiți opere de artă contemporană într-un spațiu cultural deosebit.",
+        "en": "The Têt' de l'Art gallery invites you to its newest art exhibition session. Come and explore contemporary works in a unique artistic setting.",
+        "fr": "La galerie Têt de l'Art propose sa nouvelle session d'exposition."
+      },
+      "date": "2026-06-02",
+      "source_url": "https://data.datatourisme.fr/10/1d19af89-586c-3043-8e26-a469ba84d544",
+      "period": {
+        "recurrent": true,
+        "applies_on_day": null,
+        "start_time": "14:00:00",
+        "end_time": "18:00:00"
+      },
+      "dist_km": 0.4
     }
   ],
   "maxeville": [
@@ -37540,6 +37744,31 @@
       "date": "2026-06-14",
       "source_url": "https://data.datatourisme.fr/26/4fe71eb3-8bce-3985-bb0f-73b3969d7fdf",
       "dist_km": 4.5
+    },
+    {
+      "title": {
+        "de": "Ausstellung: Das verborgene Universum",
+        "hu": "Kiállítás: A hangszerek rejtett univerzuma",
+        "ro": "Expoziție: Universul ascuns al instrumentelor",
+        "en": "Exhibition: The Hidden Universe",
+        "fr": "Exposition \"l'univers caché\" des instruments de musique"
+      },
+      "summary": {
+        "de": "Entdecken Sie in dieser einzigartigen Ausstellung die faszinierenden Details und Geheimnisse der Musikinstrumente.",
+        "hu": "Ismerje meg a hangszerek titokzatos világát és különleges, kevéssé ismert részleteit ezen az egyedi kiállításon.",
+        "ro": "Explorați detaliile fascinante și mai puțin cunoscute ale instrumentelor muzicale în cadrul acestei expoziții unice.",
+        "en": "Explore the fascinating and little-known details of various musical instruments in this unique and educational exhibition.",
+        "fr": ""
+      },
+      "date": "2026-06-14",
+      "source_url": "https://data.datatourisme.fr/26/6aa1105c-dbf8-3f68-9ad1-0c352aaa49ca",
+      "period": {
+        "recurrent": false,
+        "applies_on_day": null,
+        "start_time": "14:00:00",
+        "end_time": "18:00:00"
+      },
+      "dist_km": 0.31
     }
   ],
   "hayange": [
@@ -38417,6 +38646,25 @@
         "end_time": "21:00:00"
       },
       "dist_km": 9.99
+    },
+    {
+      "title": {
+        "de": "Brunnenfest in Collobrières",
+        "hu": "Szökőkutak ünnepe",
+        "ro": "Sărbătoarea Fântânilor",
+        "en": "Fountains Festival",
+        "fr": "Fête des Fontaines"
+      },
+      "summary": {
+        "de": "Traditionelles Dorffest in Collobrières mit gemeinsamem Aïoli-Essen, einer Messe und farbenfrohen regionalen Umzügen.",
+        "hu": "Hagyományos népünnepély Collobrières falujában: közös aioli-ebéd, mise és díszes felvonulás várja a látogatókat.",
+        "ro": "O sărbătoare tradițională în satul Collobrières, cu un program ce include aïoli, slujbe religioase și parade locale.",
+        "en": "A traditional village festival in Collobrières featuring communal aïoli meals, a religious mass, and local parades.",
+        "fr": "Fête traditionnelle du village de Collobrières avec au programme aïoli, messe, défilé de confrérie..."
+      },
+      "date": "2026-08-16",
+      "source_url": "https://data.datatourisme.fr/13/9f67875c-0748-3e17-bf99-a4ca03192683",
+      "dist_km": 9.93
     }
   ],
   "monteux": [
@@ -38630,6 +38878,31 @@
         "end_time": "23:05:00"
       },
       "dist_km": 1.91
+    },
+    {
+      "title": {
+        "de": "Besuch in Versailles zur Zeit Ludwigs XIV.",
+        "hu": "Versailles XIV. Lajos idején - Mesélős séta",
+        "ro": "Vizită la Versailles pe vremea lui Ludovic XIV",
+        "en": "Versailles in the Time of Louis XIV",
+        "fr": "Un visiteur à Versailles au temps de Louis XIV (promenade contée)"
+      },
+      "summary": {
+        "de": "Ein theatralischer Rundgang durch die historischen Viertel von Versailles mit Monsieur Jourdain, der auf seine Erhebung in den Adel hofft.",
+        "hu": "Fedezze fel Versailles történelmi negyedeit Monsieur Jourdain társaságában egy kosztümös, mesélős séta során.",
+        "ro": "Explorați cartierele istorice din Versailles alături de Monsieur Jourdain într-o plimbare teatrală plină de haz.",
+        "en": "Stroll through the historic quarters of Versailles with Monsieur Jourdain in this theatrical storytelling walk.",
+        "fr": "Partez en promenade avec un drôle de visiteur dans les quartiers historiques de Versailles ! C’est Monsieur Jourdain qui vient séjourner dans la ville royale pour préparer sa visite au Château, où il espère obtenir du roi son anoblissement !"
+      },
+      "date": "2026-06-13",
+      "source_url": "https://data.datatourisme.fr/13/08b749d7-a42b-3915-83d4-c2e297ae5c24",
+      "period": {
+        "recurrent": false,
+        "applies_on_day": null,
+        "start_time": "15:00:00",
+        "end_time": "16:30:00"
+      },
+      "dist_km": 2.15
     }
   ],
   "fleurance": [
@@ -39417,6 +39690,50 @@
       "date": "2026-06-12",
       "source_url": "https://data.datatourisme.fr/13/46d9fc5a-4dd1-302f-92f4-02ab314d3a79",
       "dist_km": 0.05
+    },
+    {
+      "title": {
+        "de": "Festival des Polynesischen Dreiecks",
+        "hu": "Polinéz Háromszög Fesztivál",
+        "ro": "Festivalul Triunghiului Polinezian",
+        "en": "Polynesian Triangle Festival",
+        "fr": "Festival du triangle de la Polynésie"
+      },
+      "summary": {
+        "de": "Das Festival kehrt im fünften Jahr zurück, um Ihnen die polynesische Kultur durch Tänze, Workshops und Kunsthandwerk näherzubringen.",
+        "hu": "A fesztivál ötödik alkalommal tér vissza, hogy táncokon, workshopokon és kézműveseken keresztül mutassa be a polinéz kultúrát.",
+        "ro": "Festivalul revine pentru al cincilea an pentru a vă prezenta cultura polineziană prin dansuri, ateliere și standuri de artizanat.",
+        "en": "The festival returns for its fifth year to introduce you to Polynesian culture through dances, workshops, and artisan stalls.",
+        "fr": "Le Festival du triangle Polynésien revient pour la cinquième année pour vous faire connaître à travers les danses, les ateliers et les échoppes d'artisans la culture Polynésienne."
+      },
+      "date": "2026-06-19",
+      "source_url": "https://data.datatourisme.fr/13/b2c9a75f-f370-3bf2-9574-e434fd231b9d",
+      "dist_km": 0.18
+    },
+    {
+      "title": {
+        "de": "Musée d'Angoulême beim Polynesien-Festival",
+        "hu": "A Musée d'Angoulême programjai a Polinéz Fesztiválon",
+        "ro": "Activitățile Muzeului Angoulême la Festivalul Polinezian",
+        "en": "Musée d'Angoulême Activities at the Polynesian Festival",
+        "fr": "Activités du Musée d'Angoulême au Festival du triangle de la Polynésie"
+      },
+      "summary": {
+        "de": "Das Museum freut sich, erneut am Polynesien-Festival teilzunehmen, das von A HI’O MAI unterstützt wird.",
+        "hu": "A múzeum örömmel vesz részt ismét az A HI’O MAI által szervezett Polinéz Háromszög Fesztiválon.",
+        "ro": "Muzeul are plăcerea de a participa din nou la Festivalul Triunghiului Polinezian, susținut de A HI’O MAI.",
+        "en": "The museum is pleased to participate once again in the Polynesian Triangle Festival supported by A HI’O MAI.",
+        "fr": "Le musée a le plaisir de participer une nouvelle fois au Festival du Triangle de la Polynésie porté par l’A HI’O MAI."
+      },
+      "date": "2026-06-20",
+      "source_url": "https://data.datatourisme.fr/13/200d2504-5a02-3088-af4a-8872027c685d",
+      "period": {
+        "recurrent": false,
+        "applies_on_day": null,
+        "start_time": "10:00:00",
+        "end_time": "18:00:00"
+      },
+      "dist_km": 2.08
     }
   ],
   "france-aigues-mortes-history-v2": [
@@ -40260,6 +40577,31 @@
         "end_time": "18:30:00"
       },
       "dist_km": 0.2
+    },
+    {
+      "title": {
+        "de": "Aquarell-Festival in Bagnols",
+        "hu": "Akvarellfestők Fesztiválja Bagnols-ban",
+        "ro": "Festivalul Acuraliștilor din Bagnols",
+        "en": "Watercolour Festival in Bagnols",
+        "fr": "Festival des aquarellistes de Bagnols"
+      },
+      "summary": {
+        "de": "Das goldene Steindorf Bagnols veranstaltet sein 27. Aquarell-Festival am 26. und 27. Juli 2025. Der Eintritt ist für alle frei.",
+        "hu": "A csodás aranyszínű köveiről híres Bagnols falu 2025. július 26-án és 27-én rendezi meg 27. akvarellfesztiválját. A belépés ingyenes.",
+        "ro": "Bagnols, un sat superb din piatră aurie, organizează pe 26 și 27 iulie 2025 cel de-al 27-lea festival al acuareliștilor. Intrare gratuită.",
+        "en": "The beautiful golden-stone village of Bagnols hosts its 27th watercolour festival on July 26 and 27, 2025. Free admission for all.",
+        "fr": "Bagnols, très beau village en pierres dorées, organise les 26 et 27 juillet 2025 de 10h à 19h son 27ème festival des aquarellistes. (Parking gratuit). Ouvert gratuitement au public."
+      },
+      "date": "2026-07-26",
+      "source_url": "https://data.datatourisme.fr/13/390a3f46-a803-3242-9d1d-88467405d20f",
+      "period": {
+        "recurrent": false,
+        "applies_on_day": null,
+        "start_time": "10:00:00",
+        "end_time": "19:00:00"
+      },
+      "dist_km": 8.88
     }
   ],
   "pont-saint-esprit": [
@@ -55390,6 +55732,31 @@
         "end_time": "19:00:00"
       },
       "dist_km": 1.69
+    },
+    {
+      "title": {
+        "de": "Krimi-Komödie: Sherlock Holmes",
+        "hu": "Vígjáték - Sherlock Holmes és a rejtély",
+        "ro": "Comedie - Sherlock Holmes și misterul văii",
+        "en": "Comedy - Sherlock Holmes and the Mystery",
+        "fr": "Comédie - Sherlock Holmes et le mystère de la vallée de Boscombe"
+      },
+      "summary": {
+        "de": "Sherlock Holmes ermittelt! Eine interaktive Krimikomödie mit 3 Schauspielern, 9 Rollen und viel britischem Humor.",
+        "hu": "Sherlock Holmes nyomoz! Interaktív bűnügyi vígjáték 3 színésszel, 9 karakterrel és sok-sok angol humorral.",
+        "ro": "Sherlock Holmes investighează! O comedie polițistă interactivă cu 3 actori, 9 personaje și mult umor englezesc.",
+        "en": "Sherlock Holmes investigates! An interactive detective comedy with 3 actors, 9 characters, and plenty of British humor.",
+        "fr": "Sherlock Holmes enquête ! Une comédie policière interactive avec 3 acteurs, 9 personnages et beaucoup d'humour anglais."
+      },
+      "date": "2026-05-30",
+      "source_url": "https://data.datatourisme.fr/5/12d0ef1a-b9df-3cb3-87c0-493a29d5b2b8",
+      "period": {
+        "recurrent": true,
+        "applies_on_day": "Saturday",
+        "start_time": "21:00:00",
+        "end_time": "22:30:00"
+      },
+      "dist_km": 0.25
     }
   ],
   "oberhausbergen": [
@@ -55418,6 +55785,32 @@
         "end_time": "14:00:00"
       },
       "dist_km": 3.44
+    },
+    {
+      "title": {
+        "de": "Geselliger Nachmittag",
+        "hu": "Baráti délután",
+        "ro": "După-amiază convivială",
+        "en": "Friendly Afternoon",
+        "fr": "Après-midi conviviale"
+      },
+      "summary": {
+        "de": "",
+        "hu": "",
+        "ro": "",
+        "en": "",
+        "fr": ""
+      },
+      "date": "2026-06-02",
+      "source_url": "https://data.datatourisme.fr/5/f2e721ce-e1bd-30f3-a285-bd137d76276d",
+      "image_url": "https://opendata.tourisme-alsace.info/photos/beau_jardin/photos/243003681_1_800x600.jpg",
+      "period": {
+        "recurrent": true,
+        "applies_on_day": "Tuesday",
+        "start_time": "14:00:00",
+        "end_time": "17:30:00"
+      },
+      "dist_km": 6.87
     }
   ],
   "molsheim": [
@@ -56129,6 +56522,26 @@
         "end_time": "19:00:00"
       },
       "dist_km": 4.16
+    },
+    {
+      "title": {
+        "de": "Tag der offenen Tür im Tennisclub",
+        "hu": "Nyílt nap a teniszklubban",
+        "ro": "Ziua porților deschise la clubul de tenis",
+        "en": "Tennis Club Open House",
+        "fr": "Journée portes ouvertes au tennis club"
+      },
+      "summary": {
+        "de": "Tennis-Animationstag: kostenloser Zugang zu den Plätzen, Leihschläger und Clubanmeldung zu ermäßigten Sommertarifen.",
+        "hu": "Teniszes programok: ingyenes pályahasználat, ütőkölcsönzés és kedvezményes nyári klubtagsági jelentkezés várja a látogatókat.",
+        "ro": "Zi de animație dedicată tenisului: acces gratuit la terenuri, împrumut de echipament și înscrieri la prețuri reduse pentru vară.",
+        "en": "A day of tennis fun: free court access, equipment loan, and club registration at reduced summer rates.",
+        "fr": "Journée animation autour du tennis : accès gratuit aux courts de tennis, prêt de matériel et inscription au club à tarifs réduits pour l'été."
+      },
+      "date": "2026-06-28",
+      "source_url": "https://data.datatourisme.fr/5/76f0f0d3-5adc-3ea3-8ca1-0b63c1c0dfa7",
+      "image_url": "https://opendata.tourisme-alsace.info/photos/obernai2/photos/220006630_1_800x600.jpg",
+      "dist_km": 6.71
     }
   ],
   "riedisheim": [
@@ -57879,6 +58292,859 @@
       "date": "2026-06-27",
       "source_url": "https://data.datatourisme.fr/6/bc94b7ae-ecfd-3c6a-9e43-b151196d4964",
       "dist_km": 4.31
+    }
+  ],
+  "metz": [
+    {
+      "title": {
+        "de": "Nachtevent in der Boutique Bliiida",
+        "hu": "Esti program a Bliiida boltban",
+        "ro": "Seară nocturnă la Boutique Bliiida",
+        "en": "Late Night at Boutique Bliiida",
+        "fr": "Nocturne à la Boutique Bliiida"
+      },
+      "summary": {
+        "de": "Genießen Sie einen geselligen Abend in der Boutique Bliiida mit Verkostungen, temporären Tattoos und Glasvorführungen.",
+        "hu": "Fedezze fel a Bliiida Boutique kínálatát egy baráti hangulatú esten kóstolókkal, tetoválásokkal és üvegfúvó bemutatóval.",
+        "ro": "O seară specială pentru a descoperi Boutique Bliiida într-o atmosferă convivială, cu degustări și demonstrații artizanale.",
+        "en": "Enjoy a friendly evening at Boutique Bliiida with tastings, temporary tattoos, and glass-blowing demonstrations.",
+        "fr": "Venez profiter d'une soirée spéciale pour (re)découvrir Bliiida la Boutique dans une ambiance conviviale.\nAu programme : Dégustations de boissons et de tartinades, animation de tatouages éphémères, démonstration de verre au chalumeau."
+      },
+      "date": "2026-05-28",
+      "source_url": "https://data.datatourisme.fr/10/aa3ff978-049c-3aac-9ab8-c23e59082f13",
+      "period": {
+        "recurrent": true,
+        "applies_on_day": "Thursday",
+        "start_time": "18:00:00",
+        "end_time": "21:00:00"
+      },
+      "dist_km": 0.53
+    },
+    {
+      "title": {
+        "de": "Ausstellung: Unsere digitale Welt",
+        "hu": "Kiállítás: Digitális világunk",
+        "ro": "Expoziție: Lumea noastră digitală",
+        "en": "Exhibition: Our Digital World",
+        "fr": "Exposition - Notre monde n'est pas là où vivent les corps ?"
+      },
+      "summary": {
+        "de": "Diese Ausstellung erkundet virtuelle Räume und digitale Realitäten, die heute als unsere neuen Lebensräume fungieren.",
+        "hu": "A tárlat a virtuális tereket és a digitális otthonainkat vizsgálja, ahol a testek nélkül is mindennapjainkat töltjük.",
+        "ro": "Expoziția explorează spațiile virtuale și realitățile digitale care au devenit noile noastre spații de locuit.",
+        "en": "This exhibition explores virtual spaces and digital realities that have become our modern homes.",
+        "fr": "« Nos espaces virtuels sont des maisons, des espaces où nous vivons. \nNos murs ne sont pas de briques, ils sont faits de câbles, de puces, de métal, de plastique. \nIls sont à la fois partout et nulle part, stockés sur des millions d’appareils fragiles. \nC’est ici que vous vous trouvez.\nCette exposition explore ces espaces où ne vivent pas les corps, encore que... \nElle traverse des propositions pl"
+      },
+      "date": "2026-05-29",
+      "source_url": "https://data.datatourisme.fr/10/8e18db7d-2a7d-33c0-92cb-e0b9a3e672aa",
+      "image_url": "https://opendata.sitlor.fr/photos/838/838174432_4_800x600.jpeg",
+      "period": {
+        "recurrent": true,
+        "applies_on_day": null,
+        "start_time": "10:00:00",
+        "end_time": "18:00:00"
+      },
+      "dist_km": 0.61
+    }
+  ],
+  "nancy": [
+    {
+      "title": {
+        "de": "Konzert - Die Geschichte des Jazz-Pianos",
+        "hu": "Koncert - A jazz-zongora története",
+        "ro": "Concert - Istoria pianului jazz",
+        "en": "Concert - The History of Jazz Piano",
+        "fr": "Concert - L'Histoire du Piano Jazz"
+      },
+      "summary": {
+        "de": "Eine Reise durch 100 Jahre Jazz-Geschichte von Scott Joplin bis Bill Evans. 20 Porträts zeigen den Jazz in all seinen Facetten, dargeboten von erstklassigen Musikern.",
+        "hu": "Utazás a jazz 100 éves történetében Scott Joplintól Bill Evansig. A látványos show 20 portrén keresztül mutatja be a jazz ezer arcát szóló, trió és szeptett formációkban.",
+        "ro": "O călătorie prin 100 de ani de jazz, de la Scott Joplin la Bill Evans. Spectacolul prezintă 20 de portrete muzicale care ilustrează diversitatea jazz-ului în diverse formații.",
+        "en": "A musical journey through 100 years of jazz history, from Scott Joplin to Bill Evans. Explore 20 portraits of jazz in solo, trio, and septet performances.",
+        "fr": "Histoire du Piano jazz, 100 ans de jazz !\n\"De Scott Joplin à Bill Evans, de Fats Waller à Horace Silver, en piano solo, trio ou septet, ce spectacle vous raconte 100 ans de jazz en 20 portraits : le Jazz dans tous ses états !\"\n\nAvec Matthieu ROFFE : piano, Eric THEILER : trompette, cornet, bugle, Nicolas GEGOUT : saxophones, clarinette, piccolo, Pierre REBOUD : trombone, sousaphone, arrangements, "
+      },
+      "date": "2026-05-29",
+      "source_url": "https://data.datatourisme.fr/10/f40d6bda-7a66-38d8-a7f9-819bc0a027eb",
+      "period": {
+        "recurrent": true,
+        "applies_on_day": "Friday",
+        "start_time": "20:00:00",
+        "end_time": "23:00:00"
+      },
+      "dist_km": 0.36
+    }
+  ],
+  "gerardmer": [
+    {
+      "title": {
+        "de": "Festival Fa So'lac",
+        "hu": "Fa So'lac Fesztivál",
+        "ro": "Festivalul Fa So'lac",
+        "en": "Fa So'lac Festival",
+        "fr": "Festival Fa So'lac"
+      },
+      "summary": {
+        "de": "Ein multikulturelles Festival mit verschiedenen Veranstaltungen auf dem Wasser und am Ufer des Sees von Gérardmer.",
+        "hu": "Multikulturális fesztivál a Gérardmer-tó vizén és partján, változatos művészeti és szórakoztató programokkal.",
+        "ro": "Un festival multicultural desfășurat pe lacul Gérardmer și în împrejurimi, oferind o varietate de evenimente culturale.",
+        "en": "A multicultural festival held on and around the Gérardmer lake, featuring diverse cultural activities and performances.",
+        "fr": "Festival multiculturel sur et aux abords du lac. Programme en PJ."
+      },
+      "date": "2026-05-29",
+      "source_url": "https://data.datatourisme.fr/10/251f2774-f372-358a-9912-630f17c87eef",
+      "period": {
+        "recurrent": true,
+        "applies_on_day": null,
+        "start_time": null,
+        "end_time": null
+      },
+      "dist_km": 1.2
+    },
+    {
+      "title": {
+        "de": "Manu Lanvin and the Devil Blues",
+        "hu": "Manu Lanvin and the Devil Blues koncert",
+        "ro": "Concert Manu Lanvin and the Devil Blues",
+        "en": "Manu Lanvin and the Devil Blues",
+        "fr": "Manu Lanvin and the Devil Blues en concert exceptionnel"
+      },
+      "summary": {
+        "de": "Kraftvoller Blues und mitreißende Gitarrenriffs von Manu Lanvin und seinen erstklassigen Musikern bei einem außergewöhnlichen Konzertabend.",
+        "hu": "Erőteljes blues zene, virtuóz gitárjáték és hihetetlen energia várja a közönséget Manu Lanvin és zenekarának gérardmeri koncertjén.",
+        "ro": "O seară de blues energic cu riff-uri de chitară spectaculoase și o atmosferă incredibilă creată de Manu Lanvin la Gérardmer.",
+        "en": "Experience powerful blues energy and endless guitar riffs with Manu Lanvin and his top-tier musicians during this exceptional concert.",
+        "fr": "Manu Lanvin c’est du Blues puissant, une communion avec le public, une bête de scène, de l’énergie à revendre et des riffs de guitare à n’en plus finir ….. Vous l’avez aimé une fois, vous l’aimerez une deuxième fois avec ses musiciens de très haut niveau.  Une soirée qui s’annonce incroyable."
+      },
+      "date": "2026-05-29",
+      "source_url": "https://data.datatourisme.fr/10/30b07046-6e0e-321c-84b6-e0c85f413900",
+      "image_url": "https://opendata.sitlor.fr/photos/776/776007280_4_800x600.jpeg",
+      "period": {
+        "recurrent": true,
+        "applies_on_day": "Friday",
+        "start_time": "20:30:00",
+        "end_time": "23:30:00"
+      },
+      "dist_km": 7.56
+    }
+  ],
+  "sarreguemines": [
+    {
+      "title": {
+        "de": "Handpan-Einführungskurs",
+        "hu": "Handpan kezdő kurzus",
+        "ro": "Curs de inițiere în handpan",
+        "en": "Handpan Introduction Workshop",
+        "fr": "Stage d'initiation aux handpans"
+      },
+      "summary": {
+        "de": "Lernen Sie die faszinierenden Klänge und Schwingungen des Handpans in einem Workshop mit Keapan in Sarreguemines kennen.",
+        "hu": "Ismerkedjen meg a handpan lenyűgöző hangzásával és vibrációival Keapan kezdő kurzusán Sarreguemines-ben. Előzetes tudás nem szükséges.",
+        "ro": "Descoperiți instrumentul muzical handpan și lăsați-vă seduși de sunetele sale captivante în cadrul unui atelier organizat la Sarreguemines.",
+        "en": "Discover the fascinating sounds and vibrations of the handpan instrument in an introductory workshop with Keapan in Sarreguemines.",
+        "fr": "Stage d'initiation aux handpans à Sarreguemines avec Keapan.\n10 personnes maximum : Infos et réservation obligatoire sur https : //stages.keapan.com\n\nSuite au succès des précédents événements tous complet à Sarreguemines, le stage d'initiation aux handpans est de retour.\n\nVenez découvrir cet instrument de musique fascinant et laissez-vous séduire par ses sonorités et vibrations envoutantes. Aucune"
+      },
+      "date": "2026-05-30",
+      "source_url": "https://data.datatourisme.fr/10/6cfbef76-7058-3abc-866f-10530fe0281c",
+      "image_url": "https://opendata.sitlor.fr/photos/947/947004427_4_800x600.jpeg",
+      "period": {
+        "recurrent": true,
+        "applies_on_day": "Saturday",
+        "start_time": "09:00:00",
+        "end_time": "18:30:00"
+      },
+      "dist_km": 0.38
+    }
+  ],
+  "saint-rambert-d-albon": [
+    {
+      "title": {
+        "de": "Festival Art et la Matière",
+        "hu": "Art et la Matière fesztivál",
+        "ro": "Festivalul L'Art et la Matière",
+        "en": "Art and Material Festival",
+        "fr": "Festival l'Art et la Matière en Drôme des Collines - Exposition  - Plutôt montagnes ou collines ?"
+      },
+      "summary": {
+        "de": "Delphine Caraz nutzt Stickerei, um Landschaften und mentale Rückzugsorte künstlerisch darzustellen. Eine Hommage an das Territorium.",
+        "hu": "Delphine Caraz a hímzést használja fel a tájhoz való kötődés és a mentális menedékhelyek kifejezésére művészeti kiállításán.",
+        "ro": "Delphine Caraz a ales broderia ca vector de creație pentru a exprima atașamentul față de peisaj și teritoriul ca refugiu mental.",
+        "en": "Artist Delphine Caraz uses embroidery to explore our connection to landscapes and the concept of mental refuges.",
+        "fr": "L’attachement au paysage, au territoire, comme lieu, lieu refuge, image mentale.\r\nEspace immuable où mentalement nous pourrions nous réfugier.\r\nDelphine Caraz a choisi la broderie et plus particulièrement le point lancé comme vecteur de sa création."
+      },
+      "date": "2026-05-29",
+      "source_url": "https://data.datatourisme.fr/13/0b9fc8f9-c074-329e-b098-0c2e76034523",
+      "period": {
+        "recurrent": true,
+        "applies_on_day": null,
+        "start_time": "10:00:00",
+        "end_time": "18:00:00"
+      },
+      "dist_km": 6.16
+    }
+  ],
+  "montelimar": [
+    {
+      "title": {
+        "de": "Pause Sun, Lunch and Swim",
+        "hu": "Napfény, ebéd és úszás",
+        "ro": "Pauză Sun, Lunch and Swim",
+        "en": "Sun, Lunch and Swim Break",
+        "fr": "Pause Sun, Lunch and Swim au Printemps"
+      },
+      "summary": {
+        "de": "Gönnen Sie sich eine Mittagspause mit Poolbesuch im Hotel-Restaurant Le Printemps für pure Entspannung.",
+        "hu": "Élvezze az ebédszünetet és a medencét a Hotel Restaurant Le Printemps-ben egy pihentető napért.",
+        "ro": "Savurați un prânz și o baie în piscină la Hotel Restaurant Le Printemps pentru o zi de relaxare.",
+        "en": "Enjoy a lunch break and a dip in the pool at Hotel Restaurant Le Printemps for a relaxing day.",
+        "fr": "Venez faire une pause déjeuner et piscine à l'hôtel restaurant Le Printemps. \r\nRepas à 25€, transat et bain de soleil pour prendre soin de vous."
+      },
+      "date": "2026-05-28",
+      "source_url": "https://data.datatourisme.fr/13/a90c0e3d-e6fa-3c84-bd73-e06708b767de",
+      "period": {
+        "recurrent": true,
+        "applies_on_day": null,
+        "start_time": "11:30:00",
+        "end_time": "17:00:00"
+      },
+      "dist_km": 0.71
+    }
+  ],
+  "cagnes-sur-mer": [
+    {
+      "title": {
+        "de": "Destination Bijou Cagnes",
+        "hu": "Ékszerkiállítás Cagnes-sur-Mer-ben",
+        "ro": "Destination Bijou Cagnes",
+        "en": "Destination Bijou Cagnes",
+        "fr": "Destination Bijou Cagnes"
+      },
+      "summary": {
+        "de": "Entdecken Sie die faszinierende Welt des Schmucks in drei zeitgenössischen Ausstellungen in Cagnes-sur-Mer.",
+        "hu": "Fedezze fel az ékszerek varázslatos világát három különleges kortárs kiállításon keresztül Cagnes-sur-Merben.",
+        "ro": "Descoperiți universul fascinant al bijuteriilor prin intermediul a trei expoziții inedite în Cagnes-sur-Mer.",
+        "en": "Discover the fascinating world of jewelry through three contemporary exhibitions held in Cagnes-sur-Mer.",
+        "fr": "Présentation de 3 expositions"
+      },
+      "date": "2026-06-04",
+      "source_url": "https://data.datatourisme.fr/13/80b5491e-009f-377b-b8c0-05ffa78bd762",
+      "period": {
+        "recurrent": true,
+        "applies_on_day": null,
+        "start_time": "14:00:00",
+        "end_time": "18:00:00"
+      },
+      "dist_km": 0.48
+    },
+    {
+      "title": {
+        "de": "Lyrische Nächte auf der Rennbahn",
+        "hu": "Lírai esték a lóversenypályán",
+        "ro": "Nopțile Lirice la Hipodrom",
+        "en": "Lyric Nights at the Hippodrome",
+        "fr": "les Nuits lyriques de l’Hippodrome"
+      },
+      "summary": {
+        "de": "Die 7. Ausgabe feiert junge Gesangstalente mit dem Grand Prix de la voix und festlichen Opernabenden im Sommer.",
+        "hu": "A 7. alkalommal megrendezett esemény a jövő tehetségeit mutatja be az énekversenyen és gálaesteken.",
+        "ro": "A 7-a ediție celebrează excelența muzicală a tinerilor prin concursuri și seri de operă memorabile sub cerul liber.",
+        "en": "The 7th edition highlights young musical talents with the Grand Prix de la voix and festive summer evenings.",
+        "fr": "7e édition des Nuits lyriques de l’hippodrome, événement estival désormais incontournable qui met en lumière l’excellence musicale de notre jeunesse !\r\nConcours « Grand prix de la voix » : jeudi 11 juin à 20h\r\n« Soirée prodigieuse » : samedi 13 juin à 20h"
+      },
+      "date": "2026-06-11",
+      "source_url": "https://data.datatourisme.fr/13/220821e4-35a8-35ac-9a8b-8369f6be32a0",
+      "period": {
+        "recurrent": true,
+        "applies_on_day": null,
+        "start_time": null,
+        "end_time": null
+      },
+      "dist_km": 1.64
+    },
+    {
+      "title": {
+        "de": "Schuberts Winterreise - Klavierabend",
+        "hu": "Schubert: Téli utazás - zongoraest",
+        "ro": "Seară Schubert la Festivalul de Pian",
+        "en": "Schubert: Winterreise - Piano Night",
+        "fr": "Festival Les Nocturnes du Piano - Soirée Spéciale Winterreise de Schubert"
+      },
+      "summary": {
+        "de": "Samuel Hasselhorn und Philippe Bianconi interpretieren Schuberts Meisterwerk in einer besonderen Festivalnacht.",
+        "hu": "Samuel Hasselhorn és Philippe Bianconi Schubert remekművét szólaltatja meg egy különleges fesztiválest keretében.",
+        "ro": "Artiștii Samuel Hasselhorn și Philippe Bianconi interpretează Călătoria de iarnă de Schubert într-o seară de neuitat.",
+        "en": "Samuel Hasselhorn and Philippe Bianconi perform Schubert's masterpiece in a special and intimate festival night.",
+        "fr": "Artistes :\r\nSamuel Hasselhorn \r\nPhilippe Bianconi\r\n\r\nProgramme :\r\nFranz Schubert: Le Voyage d’hiver\r\n\r\nBilletterie en ligne"
+      },
+      "date": "2026-06-28",
+      "source_url": "https://data.datatourisme.fr/13/83645453-bd3e-306d-986b-ca9c3afbf60a",
+      "dist_km": 1.62
+    }
+  ],
+  "city-avignon-extra": [
+    {
+      "title": {
+        "de": "Weinbar der Côtes du Rhône beim Festival",
+        "hu": "Côtes du Rhône borbár az Avignoni Fesztiválon",
+        "ro": "Barul de vinuri Côtes du Rhône la Festival",
+        "en": "Côtes du Rhône Wine Bar at the Festival",
+        "fr": "Le Bar à Vins des Côtes du Rhône durant le Festival d'Avignon"
+      },
+      "summary": {
+        "de": "Seit 19 Jahren begeistert die Weinbar im Juli Tausende Besucher in der Hauptstadt der Côtes du Rhône mit festlicher Stimmung.",
+        "hu": "A Côtes du Rhône borbár már 19 éve várja a fesztiválozókat júliusban, ünnepi és baráti hangulattal Avignonban.",
+        "ro": "De 19 ani, acest bar de vinuri încântă mii de festivalieri pe tot parcursul lunii iulie în capitala vinurilor Côtes du Rhône.",
+        "en": "For 19 years, this wine bar has delighted thousands of festival-goers throughout July in Avignon's festive atmosphere.",
+        "fr": "Déjà 19 ans que le Bar à Vins des Côtes du Rhône ravit les papilles des milliers de festivaliers et bat son plein pendant tout le mois de juillet à Avignon, capitale des Côtes du Rhône. \r\nAmbiance conviviale et festive."
+      },
+      "date": "2026-07-03",
+      "source_url": "https://data.datatourisme.fr/13/093e3f40-dc9f-3d8e-8ede-2dde910aede8",
+      "period": {
+        "recurrent": false,
+        "applies_on_day": null,
+        "start_time": "19:00:00",
+        "end_time": "23:00:00"
+      },
+      "dist_km": 0.37
+    }
+  ],
+  "la-londe-les-maures": [
+    {
+      "title": {
+        "de": "Kulturerbe-Tage in Porte des Maures",
+        "hu": "Örökség Napok - Porte des Maures",
+        "ro": "Zilele Patrimoniului în Porte des Maures",
+        "en": "Heritage Days in Porte des Maures",
+        "fr": "Journées du Patrimoine de Pays en Méditerranée Porte des Maures"
+      },
+      "summary": {
+        "de": "Entdecken Sie die Geschichte der Region Méditerranée Porte des Maures und die traditionelle Olivenölproduktion der Provence.",
+        "hu": "Fedezze fel Méditerranée Porte des Maures történelmét, kulturális kincseit és a vidék hagyományos olívaolaj-termelését.",
+        "ro": "Descoperiți istoria, patrimoniul și producția tradițională de ulei de măsline din regiunea Méditerranée Porte des Maures.",
+        "en": "The tourism offices of Méditerranée Porte des Maures celebrate local history, heritage, and traditional olive oil production.",
+        "fr": "Les offices de tourisme de Méditerranée Porte des Maures fêtent cet évènement en vous proposant de découvrir leur patrimoine, leur histoire et les productions oléicoles du terroir."
+      },
+      "date": "2026-06-25",
+      "source_url": "https://data.datatourisme.fr/13/7930ff5f-998c-3b82-b959-da90a764de1e",
+      "dist_km": 2.61
+    }
+  ],
+  "city-grenoble-extra": [
+    {
+      "title": {
+        "de": "Ut4M: Ultra Tour der 4 Massive",
+        "hu": "Ut4M: A 4 Hegység Ultra Túrája",
+        "ro": "Ut4M: Ultra Turul celor 4 Masive",
+        "en": "Ut4M: Ultra Tour of the 4 Massifs",
+        "fr": "Ut4M : Ultra tour des 4 Massifs"
+      },
+      "summary": {
+        "de": "Zwölf Trailrunning-Rennen von 20 bis 180 km führen durch die vier spektakulären Massive rund um Grenoble.",
+        "hu": "12 különböző verseny 20 és 180 km között, amely Grenoble környékének négy hegytömbjén vezet keresztül.",
+        "ro": "O competiție cu 12 curse între 20 și 180 km, traversând cele patru masive montane din jurul orașului Grenoble.",
+        "en": "Featuring 12 races from 20 to 180 km, this event takes runners through Grenoble's four stunning mountain ranges.",
+        "fr": "Ut4M  et ses 12 courses, de 20 à 180 km, offre à tous les coureurs, du débutant au coureur élite, la possibilité de se lancer son propre défi. Un tour de la métropole grenobloise plutôt insolite à travers nos 4 massifs !"
+      },
+      "date": "2026-07-16",
+      "source_url": "https://data.datatourisme.fr/13/d28ab751-c717-375f-b81d-4d463d7e7a7f",
+      "dist_km": 0.6
+    }
+  ],
+  "vienne": [
+    {
+      "title": {
+        "de": "Jazz à Vienne Festival 2026",
+        "hu": "Jazz à Vienne Fesztivál 2026",
+        "ro": "Festivalul Jazz à Vienne 2026",
+        "en": "Jazz à Vienne Festival 2026",
+        "fr": "Festival Jazz à Vienne"
+      },
+      "summary": {
+        "de": "Feiern Sie die 45. Ausgabe mit 1.000 Künstlern auf 4 Bühnen, darunter das antike Theater.",
+        "hu": "A 45. alkalommal megrendezett fesztiválon 1000 művész lép fel 4 színpadon, köztük a misztikus Théâtre Antique-ban.",
+        "ro": "Vă invităm la a 45-a ediție, unde peste 1000 de artiști concertează pe 4 scene, inclusiv legendarul Teatru Antic.",
+        "en": "Join the 45th edition of this iconic festival, featuring 1,000 artists across 4 stages, including the Roman Theatre.",
+        "fr": "Jazz à Vienne vous donne rendez-vous pour la 45eme édition du festival en 2026 ! Chaque année, ce sont plus de 220 000 festivaliers qui viennent à la rencontre des 1000 artistes se produisant sur 4 scènes dont la plus mythique : le Théâtre Antique."
+      },
+      "date": "2026-06-25",
+      "source_url": "https://data.datatourisme.fr/13/a061e4e4-bb14-3997-98b4-f295be0e10d2",
+      "dist_km": 0.33
+    },
+    {
+      "title": {
+        "de": "Julien Doré im Théâtre Antique",
+        "hu": "Julien Doré koncertje Vienne-ben",
+        "ro": "Concert Julien Doré la Teatrul Antic",
+        "en": "Julien Doré at the Roman Theatre",
+        "fr": "Concert de Julien Doré au Théâtre Antique"
+      },
+      "summary": {
+        "de": "Arachnée Productions präsentiert Julien Doré live im antiken Theater von Vienne.",
+        "hu": "Az Arachnée Productions bemutatja Julien Doré fellépését Vienne patinás ókori színházában.",
+        "ro": "Arachnée Productions îl prezintă pe Julien Doré într-un spectacol memorabil la Teatrul Antic din Vienne.",
+        "en": "Arachnée Productions presents Julien Doré live at the stunning Théâtre Antique in Vienne.",
+        "fr": "Arachnée Productions présente Julien Doré, au Théâtre Antique de Vienne."
+      },
+      "date": "2026-07-24",
+      "source_url": "https://data.datatourisme.fr/13/69020c89-3b8d-3322-ae14-70c4deff58de",
+      "period": {
+        "recurrent": false,
+        "applies_on_day": null,
+        "start_time": "20:00:00",
+        "end_time": "20:00:00"
+      },
+      "dist_km": 0.3
+    },
+    {
+      "title": {
+        "de": "Holy Priest im Théâtre Antique",
+        "hu": "Holy Priest koncertje Vienne-ben",
+        "ro": "Concert Holy Priest la Teatrul Antic",
+        "en": "Holy Priest at the Roman Theatre",
+        "fr": "Concert d'Holy Priest au Théâtre Antique"
+      },
+      "summary": {
+        "de": "Am 25. Juli übernimmt der maskierte Antiheld Holy Priest die Bühne des antiken Theaters.",
+        "hu": "Július 25-én a titokzatos maszkos antihős, Holy Priest veszi birtokba a vienne-i ókori színházat.",
+        "ro": "Pe 25 iulie, misteriosul antierou mascat Holy Priest va urca pe scena Teatrului Antic din Vienne.",
+        "en": "On July 25th, the mysterious masked anti-hero Holy Priest will take over the Théâtre Antique in Vienne.",
+        "fr": "Le 25 juillet, le mystérieux anti-héros masqué Holy Priest prendra possession du Théâtre Antique de Vienne."
+      },
+      "date": "2026-07-25",
+      "source_url": "https://data.datatourisme.fr/13/84c7eb2a-be4c-34d9-ae6f-e2ed14d52473",
+      "period": {
+        "recurrent": false,
+        "applies_on_day": null,
+        "start_time": "20:00:00",
+        "end_time": "20:00:00"
+      },
+      "dist_km": 0.33
+    }
+  ],
+  "dives-sur-mer": [
+    {
+      "title": {
+        "de": "Cabourg Classic – Reitturnier",
+        "hu": "Cabourg Classic – Lovasverseny",
+        "ro": "Cabourg Classic - Competiție ecvestră",
+        "en": "Cabourg Classic - Equestrian Event",
+        "fr": "Cabourg Classic"
+      },
+      "summary": {
+        "de": "Das Cabourg Classic versammelt die Weltelite des Springreitens für internationale Wettbewerbe und familiäre Animationen auf der Rennbahn.",
+        "hu": "A Cabourg Classic a világ legjobb díjugratóit hozza el egy nemzetközi versenyre, családi programokkal kísérve a lóversenypályán.",
+        "ro": "Cabourg Classic reunește unii dintre cei mai buni călăreți din lume pentru competiții internaționale de sărituri peste obstacole și animații de familie.",
+        "en": "Cabourg Classic welcomes world-class riders for international show jumping competitions and family-friendly animations at the racecourse.",
+        "fr": "Cette année encore, Cabourg Classic accueille quelques-uns des plus grands cavaliers mondiaux. Pendant quelques jours, l'hippodrome s'anime au gré de compétitions internationales de saut d'obstacles et de nombreuses autres animations familiales et conviviales ! Détails communiqués ultérieurement."
+      },
+      "date": "2026-05-28",
+      "source_url": "https://data.datatourisme.fr/30/150bec16-237a-3d5f-8d0f-d84fbba58cf2",
+      "period": {
+        "recurrent": true,
+        "applies_on_day": null,
+        "start_time": null,
+        "end_time": null
+      },
+      "dist_km": 1.43
+    }
+  ],
+  "city-rouen-extra": [
+    {
+      "title": {
+        "de": "Sarah Moon: „D’après nature“",
+        "hu": "Sarah Moon: „D’après nature” kiállítás",
+        "ro": "Sarah Moon: „D’après nature”",
+        "en": "Sarah Moon: 'From Nature'",
+        "fr": "Sarah Moon « D’après nature »"
+      },
+      "summary": {
+        "de": "Eine Fotoausstellung der renommierten Künstlerin Sarah Moon über die Natur.",
+        "hu": "A világhírű fotóművész természet ihlette alkotásait bemutató tárlat Rouenban.",
+        "ro": "O expoziție de fotografie semnată de renumita artistă Sarah Moon.",
+        "en": "A photographic exhibition featuring the poetic works of the renowned artist Sarah Moon.",
+        "fr": ""
+      },
+      "date": "2026-05-30",
+      "source_url": "https://data.datatourisme.fr/30/c09a96fc-620d-372e-9098-90b6b184a43d",
+      "period": {
+        "recurrent": true,
+        "applies_on_day": null,
+        "start_time": "14:00:00",
+        "end_time": "19:00:00"
+      },
+      "dist_km": 0.23
+    }
+  ],
+  "alencon": [
+    {
+      "title": {
+        "de": "Festival des Racont’arts",
+        "hu": "Racont’arts mesemondó fesztivál",
+        "ro": "Festivalul Racont’arts",
+        "en": "Racont’arts Festival",
+        "fr": "Festival des Racont’arts"
+      },
+      "summary": {
+        "de": "Ein Festival, das die Kunst des Geschichtenerzählens und die Fantasie in den Mittelpunkt stellt.",
+        "hu": "A mesélés művészetének szentelt fesztivál, ahol történetek és legendák kelnek életre Alençonban.",
+        "ro": "Un festival dedicat artei povestitului, unde imaginația și legendele locale prind viață.",
+        "en": "A festival dedicated to the art of storytelling, bringing local legends and imagination to life.",
+        "fr": ""
+      },
+      "date": "2026-05-29",
+      "source_url": "https://data.datatourisme.fr/30/b368732a-3afd-3941-a748-9f8781e04dab",
+      "period": {
+        "recurrent": true,
+        "applies_on_day": null,
+        "start_time": null,
+        "end_time": null
+      },
+      "dist_km": 2.16
+    },
+    {
+      "title": {
+        "de": "Les passeuses – Theateraufführung",
+        "hu": "Les passeuses – színházi előadás",
+        "ro": "Les passeuses – spectacol de teatru",
+        "en": "Les passeuses – Theater Performance",
+        "fr": "Les passeuses"
+      },
+      "summary": {
+        "de": "Ein bewegendes Theaterstück, das tiefgründige Themen und menschliche Schicksale beleuchtet.",
+        "hu": "Megható színházi produkció, amely fontos emberi sorsokat és történeteket mutat be az Alençon-i színpadon.",
+        "ro": "O piesă de teatru emoționantă care explorează destine umane și teme profunde.",
+        "en": "A moving theater performance exploring profound human stories and destinies on stage.",
+        "fr": ""
+      },
+      "date": "2026-05-29",
+      "source_url": "https://data.datatourisme.fr/30/d3c85f4d-d673-3cdd-a1a0-b55da138c54a",
+      "period": {
+        "recurrent": true,
+        "applies_on_day": null,
+        "start_time": null,
+        "end_time": null
+      },
+      "dist_km": 1.45
+    }
+  ],
+  "wasselonne": [
+    {
+      "title": {
+        "de": "Food Truck Abend Dagobert",
+        "hu": "Dagobert Food Truck Est",
+        "ro": "Seara Food Trucks Dagobert",
+        "en": "Dagobert Food Truck Night",
+        "fr": "Soirée Food Trucks Dagobert"
+      },
+      "summary": {
+        "de": "Entdecken Sie kulinarische Köstlichkeiten bei der Food Trucks Dagobert Nacht in Wasselonne.",
+        "hu": "Kóstolja meg a különböző street food finomságokat a Dagobert Food Truck esten Wasselonne-ban.",
+        "ro": "Descoperiți arome variate și o atmosferă relaxată la evenimentul Food Trucks Dagobert din Wasselonne.",
+        "en": "Enjoy a variety of street food specialties at the Dagobert Food Truck evening in Wasselonne.",
+        "fr": ""
+      },
+      "date": "2026-05-30",
+      "source_url": "https://data.datatourisme.fr/5/0ed47866-8462-38d9-a3c7-e7918681c216",
+      "image_url": "https://opendata.tourisme-alsace.info/photos/wangenbourg2/photos/255007091_1_800x600.jpg",
+      "period": {
+        "recurrent": true,
+        "applies_on_day": "Saturday",
+        "start_time": "18:00:00",
+        "end_time": "23:00:00"
+      },
+      "dist_km": 5.46
+    }
+  ],
+  "guebwiller": [
+    {
+      "title": {
+        "de": "Afterwork auf dem Bauernhof",
+        "hu": "Afterwork a farmon",
+        "ro": "Afterwork la fermă",
+        "en": "Afterwork at the Farm",
+        "fr": "Afterwork à la ferme"
+      },
+      "summary": {
+        "de": "Ein Abend mit westafrikanischen Rhythmen, Kinderspielen und Hofladen-Verkauf zur Unterstützung der Afdi Alsace Erzeugerorganisationen.",
+        "hu": "Nyugat-afrikai ritmusok, gyerekjátékok és nyitott farmbolt egy jótékonysági esten az Afdi Alsace támogatására.",
+        "ro": "Seară cu influențe vest-africane, jocuri pentru copii și magazin de fermă deschis pentru susținerea Afdi Alsace.",
+        "en": "An evening of West African rhythms, children's games, and farm shop sales to support Afdi Alsace producers.",
+        "fr": "La soirée sera rythmée par diverses animations dans une ambiance musicale aux influences d’Afrique de l’Ouest. Jeux pour enfants. Boutique de la ferme ouverte au public. Les fonds récoltés permettront de soutenir les actions de développement des organisations de producteurs partenaires d’Afdi Alsace."
+      },
+      "date": "2026-05-29",
+      "source_url": "https://data.datatourisme.fr/5/f26ca79b-299d-3559-a1dd-35613b5b5aca",
+      "period": {
+        "recurrent": true,
+        "applies_on_day": "Friday",
+        "start_time": "18:00:00",
+        "end_time": "22:00:00"
+      },
+      "dist_km": 8.95
+    },
+    {
+      "title": {
+        "de": "Bürgertag",
+        "hu": "Városszépítő polgári nap",
+        "ro": "Ziua cetățenească",
+        "en": "Citizens' Day",
+        "fr": "Journée citoyenne"
+      },
+      "summary": {
+        "de": "Ein Tag des bürgerschaftlichen Engagements und der gemeinsamen Arbeit für die Gemeinde Guebwiller.",
+        "hu": "A közösségi összefogás és önkéntes munka napja Guebwiller lakói számára.",
+        "ro": "O zi dedicată voluntariatului și acțiunilor civice în beneficiul comunității din Guebwiller.",
+        "en": "A day dedicated to community engagement and collective action in Guebwiller.",
+        "fr": ""
+      },
+      "date": "2026-05-30",
+      "source_url": "https://data.datatourisme.fr/5/e5e28ccf-5e78-3319-b3bd-875adf8b0a8c",
+      "period": {
+        "recurrent": true,
+        "applies_on_day": "Saturday",
+        "start_time": "08:00:00",
+        "end_time": null
+      },
+      "dist_km": 8.61
+    }
+  ],
+  "selestat": [
+    {
+      "title": {
+        "de": "Vortrag: Die Kunst der Pastellmalerei",
+        "hu": "Előadás: A pasztelltechnika világa",
+        "ro": "Conferință: Tehnica picturii în pastel",
+        "en": "Lecture: The Art of Pastel Painting",
+        "fr": "Conférence : La technique du pastel, le monde des pastellistes"
+      },
+      "summary": {
+        "de": "François Malnati, Spezialist für zeitgenössische Stillleben, führt Sie in die faszinierende Technik und Welt der Pastellmaler ein.",
+        "hu": "Ismerje meg a pasztelltechnika titkait François Malnati autodidakt művész előadásán, aki a kortárs csendélet specialistája.",
+        "ro": "Descoperiți universul artiștilor dedicați pastelului în cadrul unei conferințe susținute de François Malnati, expert în natură moartă.",
+        "en": "Join artist François Malnati for a lecture exploring the techniques and world of pastel painters, focusing on contemporary still life.",
+        "fr": "Conférence sur la technique du pastel et le monde des pastellistes par François Malnati, artiste figuratif autodidacte spécialisé dans la nature morte contemporaine"
+      },
+      "date": "2026-05-29",
+      "source_url": "https://data.datatourisme.fr/5/aadeef65-db20-3d53-827c-5d6a0dccfe85",
+      "period": {
+        "recurrent": true,
+        "applies_on_day": "Friday",
+        "start_time": "19:12:00",
+        "end_time": null
+      },
+      "dist_km": 0.25
+    }
+  ],
+  "barr": [
+    {
+      "title": {
+        "de": "Folk-Dinner-Konzert mit Lonely Hunters",
+        "hu": "Folk vacsorakoncert: Lonely Hunters",
+        "ro": "Cină-concert Folk cu Lonely Hunters",
+        "en": "Folk Dinner-Concert with Lonely Hunters",
+        "fr": "Dîner-concert Folk avec les Lonely Hunters"
+      },
+      "summary": {
+        "de": "Genießen Sie ein ausgezeichnetes Essen in Begleitung einer großartigen musikalischen Atmosphäre mit Folk-Rhythmen.",
+        "hu": "Élvezze a kiváló vacsorát és a nagyszerű zenei hangulatot a Lonely Hunters folk-zenekar társaságában!",
+        "ro": "Bucurați-vă de o masă excelentă acompaniată de o atmosferă muzicală de excepție cu ritmuri folk!",
+        "en": "Come and enjoy an excellent meal accompanied by a superb musical atmosphere featuring live folk melodies!",
+        "fr": "Venez profiter d'un excellent repas accompagné d'une superbe ambiance musicale !"
+      },
+      "date": "2026-05-29",
+      "source_url": "https://data.datatourisme.fr/5/47720ee5-4486-3911-a25b-51629e9dff95",
+      "period": {
+        "recurrent": true,
+        "applies_on_day": "Friday",
+        "start_time": "19:30:00",
+        "end_time": "21:30:00"
+      },
+      "dist_km": 3.74
+    },
+    {
+      "title": {
+        "de": "Hoplà Guinguette im Caveau Klipfel",
+        "hu": "Hoplà Guinguette kerthelyiség Barr-ban",
+        "ro": "Hoplà Guinguette la Caveau Klipfel",
+        "en": "Hoplà Guinguette at Caveau Klipfel",
+        "fr": "Hoplà Guinguette"
+      },
+      "summary": {
+        "de": "Die wandernde Guinguette macht Station im Caveau Klipfel in Barr für einen geselligen, sommerlichen Abend.",
+        "hu": "A vándorló Hoplà Guinguette kerthelyiség megérkezik a barri Caveau Klipfel borászatba egy hangulatos estére!",
+        "ro": "Grădina de vară ambulantă Hoplà Guinguette ajunge la Caveau Klipfel din Barr pentru o seară plină de voie bună!",
+        "en": "The traveling \"Hoplà Guinguette\" outdoor café arrives at Caveau Klipfel in Barr for a festive and social evening!",
+        "fr": "Hoplà Guinguette ambulante arrive au Caveau Klipfel à Barr !"
+      },
+      "date": "2026-05-30",
+      "source_url": "https://data.datatourisme.fr/5/1cefe4e9-d0a8-33ae-94cd-d8f82c3b87b5",
+      "period": {
+        "recurrent": true,
+        "applies_on_day": "Saturday",
+        "start_time": "18:15:00",
+        "end_time": "21:30:00"
+      },
+      "dist_km": 0.29
+    }
+  ],
+  "thann": [
+    {
+      "title": {
+        "de": "Show: Mission Präsident",
+        "hu": "Előadás: Elnök-misszió",
+        "ro": "Spectacol: Misiunea Președinte",
+        "en": "Show: Mission President",
+        "fr": "Spectacle : Mission Président"
+      },
+      "summary": {
+        "de": "Eine spielerische und interaktive Show, um mit Humor die Rolle und Herausforderungen des Präsidenten zu entdecken.",
+        "hu": "Játékos és interaktív előadás, amely humorral mutatja be az elnöki szerep kihívásait.",
+        "ro": "Un spectacol ludic și interactiv pentru a descoperi cu umor rolul și provocările funcției de Președinte.",
+        "en": "A fun and interactive show to discover the role and challenges of the President with humor.",
+        "fr": "Un spectacle ludique et interactif pour découvrir avec humour le rôle et les défis du Président."
+      },
+      "date": "2026-05-30",
+      "source_url": "https://data.datatourisme.fr/5/0965fc51-635f-399c-9eda-299c8c012f17",
+      "period": {
+        "recurrent": true,
+        "applies_on_day": "Saturday",
+        "start_time": "14:30:00",
+        "end_time": "15:30:00"
+      },
+      "dist_km": 3.15
+    }
+  ],
+  "haguenau": [
+    {
+      "title": {
+        "de": "Das Große Quizzz !!!",
+        "hu": "A Nagy Bármi-Kvíz !!!",
+        "ro": "Marele Quizzz !!!",
+        "en": "The Big Anything Quizzz !!!",
+        "fr": "Le Grand n'importe Quizzz !!!"
+      },
+      "summary": {
+        "de": "Ein riesiges, vom Bar-Team entworfenes Brettspiel-Event. Eine bunte Mischung aus TV-Quizzen und Spieleklassikern für alle.",
+        "hu": "A bár csapata által készített óriási társasjáték-est. TV-vetélkedők és klasszikus játékok vidám keveréke mindenki számára.",
+        "ro": "Un eveniment cu jocuri de masă gigantice creat de echipa barului. Un mix distractiv între concursuri TV și jocuri clasice.",
+        "en": "A giant board game event created by the bar team. A fun mix of TV quizzes and classic board games for everyone to enjoy.",
+        "fr": "On vous présente un jeu de plateau Géant réalisé entièrement par la Team du bar !  Un mix entre jeux TV, trivial pursuit, bonne paye, burger quiz, p'tit bac...  Un grand n'importe quizzz !!!"
+      },
+      "date": "2026-05-28",
+      "source_url": "https://data.datatourisme.fr/5/a6fa08ee-2b7b-3af2-bd3b-506a12bedf3d",
+      "period": {
+        "recurrent": true,
+        "applies_on_day": null,
+        "start_time": "19:45:00",
+        "end_time": "22:30:00"
+      },
+      "dist_km": 0.07
+    }
+  ],
+  "erstein": [
+    {
+      "title": {
+        "de": "Ausstellung - En avant la musique",
+        "hu": "Kiállítás - En avant la musique",
+        "ro": "Expoziție - En avant la musique",
+        "en": "Exhibition - En avant la musique",
+        "fr": "Exposition - En avant la musique"
+      },
+      "summary": {
+        "de": "",
+        "hu": "",
+        "ro": "",
+        "en": "",
+        "fr": ""
+      },
+      "date": "2026-06-02",
+      "source_url": "https://data.datatourisme.fr/5/7023ae69-7047-3c8d-8538-0efd984a7fa0",
+      "period": {
+        "recurrent": true,
+        "applies_on_day": "Wednesday",
+        "start_time": "14:00:00",
+        "end_time": "18:00:00"
+      },
+      "dist_km": 5.49
+    }
+  ],
+  "sainte-marie-aux-mines": [
+    {
+      "title": {
+        "de": "Tétrail d'Aubure - Waldlauf",
+        "hu": "Tétrail d'Aubure erdei terepfutás",
+        "ro": "Tétrail d'Aubure - Cursă de pădure",
+        "en": "Tétrail d'Aubure Forest Trail",
+        "fr": "Tétrail d'Aubure"
+      },
+      "summary": {
+        "de": "Entdecken Sie die Waldwege des höchstgelegenen Dorfes im Elsass bei diesem spannenden Tétrail-Lauf!",
+        "hu": "Fedezze fel Elzász legmagasabban fekvő falujának erdei ösvényeit ezen a különleges Tétrail terepfutó versenyen!",
+        "ro": "Parcurgeți potecile forestiere ale celui mai înalt sat din Alsacia cu ocazia cursei Tétrail!",
+        "en": "Explore the forest paths of the highest village in Alsace during this exciting Tétrail running event!",
+        "fr": "Empruntez les sentiers forestiers du plus haut village d'Alsace à l'occasion de ce Tétrail !"
+      },
+      "date": "2026-05-30",
+      "source_url": "https://data.datatourisme.fr/5/0611ed31-f7e9-3814-acd1-607e501b916b",
+      "period": {
+        "recurrent": true,
+        "applies_on_day": "Saturday",
+        "start_time": "13:00:00",
+        "end_time": "18:00:00"
+      },
+      "dist_km": 6.13
+    }
+  ],
+  "altkirch": [
+    {
+      "title": {
+        "de": "Workshop: Florales Erbe des Sundgau",
+        "hu": "Sundgau virágöröksége workshop",
+        "ro": "Atelier de descoperire a patrimoniului floral",
+        "en": "Sundgau Floral Heritage Workshop",
+        "fr": "Atelier découverte du Patrimoine Floral du Sundgau"
+      },
+      "summary": {
+        "de": "Bitte Wanderschuhe, Schere und Korb mitbringen. Anmeldung erforderlich bis zum 28. Mai.",
+        "hu": "Kérjük, hozzon túracipőt, metszőollót és kosarat. Előzetes regisztráció kötelező május 28-ig.",
+        "ro": "Vă rugăm să aduceți încălțăminte de mers și foarfecă de grădină. Înscriere obligatorie.",
+        "en": "Please bring walking shoes, pruning shears and a basket. Registration required by May 28.",
+        "fr": "Merci de prévoir des chaussures de marche, une tenue adapatée à la météo et d’apporter un sécateur ainsi qu’un panier ou seau.\nInscription obligatoire avant le jeudi 28 mai. 30 places."
+      },
+      "date": "2026-05-29",
+      "source_url": "https://data.datatourisme.fr/5/b884c527-476f-328d-8d01-8e281b88b1b2",
+      "period": {
+        "recurrent": true,
+        "applies_on_day": "Friday",
+        "start_time": "17:00:00",
+        "end_time": "20:00:00"
+      },
+      "dist_km": 9.19
+    }
+  ],
+  "france-marseille-south-cities-v2": [
+    {
+      "title": {
+        "de": "Urban Bowl Fest",
+        "hu": "Urban Bowl Fest",
+        "ro": "Urban Bowl Fest",
+        "en": "Urban Bowl Fest",
+        "fr": "Urban Bowl Fest"
+      },
+      "summary": {
+        "de": "Das große Treffen für urbanen Sport und Kultur im berühmten Bowl du Prado in Marseille.",
+        "hu": "A városi sportok és kultúra ünnepe a marseille-i Bowl du Prado pályán.",
+        "ro": "Evenimentul dedicat sporturilor și culturii urbane la Bowl du Prado.",
+        "en": "The essential event for urban sports and street culture at the legendary Bowl du Prado.",
+        "fr": "Le rendez vous dédié aux sports et cultures urbaines au Bowl du Prado."
+      },
+      "date": "2026-06-05",
+      "source_url": "https://data.datatourisme.fr/58/16c245c4-7eeb-393a-8248-a0194852def9",
+      "period": {
+        "recurrent": true,
+        "applies_on_day": "Sunday",
+        "start_time": "09:00:00",
+        "end_time": "17:00:00"
+      },
+      "dist_km": 1.54
     }
   ]
 }
