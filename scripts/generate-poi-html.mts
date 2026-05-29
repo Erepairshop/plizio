@@ -1594,7 +1594,7 @@ ${structuredData(poi, lang, url, metaDesc, countryId, countrySlugFor(lang, count
   ${renderTabNav(lang, { hasItin: true, hasSights: sightsArr.length > 0 || nearbyArr.length > 0, hasNews: !!newsHtml, hasInfo: factsArr.length > 0 || geoItems.length > 0 || historyHtml })}
   <div class="plz-hero-grid" id="sec-overview">
     <div class="plz-hero-grid-main">${heroHtml}</div>
-    <div class="plz-hero-grid-side">${weatherHtml}${marineHtml}${officialLinksHtml}${yearlyHtml}${newsHtml}${renderFAQ(poi, lang)}</div>
+    <div class="plz-hero-grid-side">${weatherHtml}${marineHtml}${officialLinksHtml}${yearlyHtml}${newsHtml}</div>
   </div>
   ${descText ? `<section><p class="poi-lead-paragraph">${escapeHtml(descText)}</p></section>` : ""}
   <div id="sec-itin">${renderCityItinerary(poi, lang)}</div>
@@ -1606,6 +1606,7 @@ ${structuredData(poi, lang, url, metaDesc, countryId, countrySlugFor(lang, count
   </div>
   ${richness.isWeak ? "" : gameCtaHtml}
   ${faqHtml}
+  ${renderFAQ(poi, lang)}
   <div id="sec-sights">
   ${sightsHtml}
   ${nearbyHtml}
