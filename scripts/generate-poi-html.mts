@@ -1194,6 +1194,11 @@ function renderHtml(poi: POI, lang: Lang): string | null {
   if (!poi.parent) return null;
   const name = getLocalized(poi.name, lang) ?? poi.id;
   const countryId = getCountryId(poi.parent);
+  const countryName = countrySlugFor(lang, countryId).replace(/-/g, " ");
+  const ccap = countryName.charAt(0).toUpperCase() + countryName.slice(1);
+  // SEO alt-text helper. Builds "Subject in POI (Country)" patterns.
+  const buildAlt = (subject: string, ctx?: string) =>
+    `${subject}${ctx ? " — " + ctx : ""} (${ccap})`;
 
   // Description: prefer advanced, fallback to short
   let descAdv = (poi as { descriptionAdvanced?: Record<string, string> }).descriptionAdvanced;
@@ -1275,7 +1280,7 @@ function renderHtml(poi: POI, lang: Lang): string | null {
     const rimg = (r as { image?: string }).image;
     const snippet = relatedDescSnippet(r);
     const imgHtml = rimg
-      ? `<div class="plz-rcard-img"><img src="${escapeHtml(rimg)}" alt="${rname}" loading="lazy"/></div>`
+      ? `<div class="plz-rcard-img"><img src="${escapeHtml(rimg)}" alt="${escapeHtml(buildAlt(rname, name))}" loading="lazy"/></div>`
       : `<div class="plz-rcard-img plz-rcard-ph">🗺️</div>`;
     return `<a class="plz-rcard" href="${buildPoiPath(lang, r)}">${imgHtml}<div class="plz-rcard-body"><div class="plz-rcard-title">${rname}</div>${snippet ? `<div class="plz-rcard-snip">${escapeHtml(snippet)}</div>` : ""}</div></a>`;
   }
@@ -1365,7 +1370,7 @@ function renderHtml(poi: POI, lang: Lang): string | null {
     // Inject image from sight-image-map.json if the sight itself lacks one.
     const imgUrl = s.image || lookupSightImage(s.name, poi.id);
     const img = imgUrl
-      ? `<button type="button" class="plz-sight-img-btn" data-plzimg="${escapeHtml(imgUrl)}" data-plzalt="${escapeHtml(s.name)}" aria-label="${escapeHtml(s.name)}"><img class="plz-sight-img" src="${escapeHtml(imgUrl)}" alt="${escapeHtml(s.name)}" loading="lazy"/></button>`
+      ? `<button type="button" class="plz-sight-img-btn" data-plzimg="${escapeHtml(imgUrl)}" data-plzalt="${escapeHtml(buildAlt(s.name, name))}" aria-label="${escapeHtml(s.name)}"><img class="plz-sight-img" src="${escapeHtml(imgUrl)}" alt="${escapeHtml(buildAlt(s.name, name))}" loading="lazy"/></button>`
       : "";
     const dist = withDistance && s.distance ? `<span class="plz-sight-dist">${escapeHtml(s.distance)}</span>` : "";
     const txt = s.text ? `<p>${escapeHtml(s.text)}</p>` : "";
@@ -1479,8 +1484,10 @@ function renderHtml(poi: POI, lang: Lang): string | null {
         const linkOpen = isHttp ? `<a href="${escapeHtml(ev.source_url!)}" target="_blank" rel="noopener nofollow" class="plz-yh-link">` : "";
         const linkClose = isHttp ? "</a>" : "";
         // Optional thumbnail. Use loading="lazy" so the list doesn't block render.
+        const evTitle = ev.title?.[lang] || ev.title?.en || ev.title?.de || "";
+        const evAlt = evTitle ? buildAlt(evTitle, name) : buildAlt(name);
         const imgHtml = (typeof ev.image_url === "string" && /^https?:\/\//.test(ev.image_url))
-          ? `<img class="plz-yh-img" src="${escapeHtml(ev.image_url)}" alt="" loading="lazy" decoding="async"/>` : "";
+          ? `<img class="plz-yh-img" src="${escapeHtml(ev.image_url)}" alt="${escapeHtml(evAlt)}" loading="lazy" decoding="async"/>` : "";
         // Optional badges in the meta row: category, price, period
         const pickL = (v: any): string => {
           if (!v) return "";
@@ -1632,11 +1639,12 @@ function renderHtml(poi: POI, lang: Lang): string | null {
   // Hero swiper — primary image + up to 4 sight images, swipeable with snap + dots
   const heroImages: { src: string; alt: string }[] = [];
   const heroImg = poi.image || lookupFallbackImage(poi.id);
-  if (heroImg) heroImages.push({ src: heroImg, alt: name });
+  if (heroImg) heroImages.push({ src: heroImg, alt: buildAlt(name) });
   for (const s of sightsArr.slice(0, 6)) {
     const sImg = (s as { image?: string }).image;
     if (sImg && heroImages.length < 5 && !heroImages.some(h => h.src === sImg)) {
-      heroImages.push({ src: sImg, alt: ((s as { name?: string }).name) || name });
+      const sName = (s as { name?: string }).name || name;
+      heroImages.push({ src: sImg, alt: buildAlt(sName, name) });
     }
   }
   let heroHtml: string;
@@ -1653,7 +1661,8 @@ function renderHtml(poi: POI, lang: Lang): string | null {
 
   // Coat of arms (city/region badge)
   const coa = (poi as { coa?: string }).coa;
-  const coaHtml = coa ? `<img class="plz-coa" src="${escapeHtml(coa)}" alt="" loading="lazy"/>` : "";
+  const coaLabel: Partial<Record<Lang, string>> = { de: "Wappen", hu: "címer", ro: "stema", en: "coat of arms", fr: "blason", tr: "arması" };
+  const coaHtml = coa ? `<img class="plz-coa" src="${escapeHtml(coa)}" alt="${escapeHtml(`${name} ${coaLabel[lang] || coaLabel.en}`)}" loading="lazy"/>` : "";
 
   // Audio pronunciation
   const audio = (poi as { audio?: string }).audio;
