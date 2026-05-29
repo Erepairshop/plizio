@@ -1065,9 +1065,58 @@ function renderCityItinerary(poi: POI, lang: Lang): string {
   const resourcesHtml = (resGrid || infoBlocks.length) ? `<details class="plz-itin-collapse plz-itin-resources-collapse"><summary><span class="plz-itin-collapse-label">${C.toolsLabel || C.resTitle}</span><span class="plz-itin-collapse-arrow">▼</span></summary><div class="plz-itin-resources-body">${resGrid}<div class="plz-itin-info-grid">${infoBlocks.join("")}</div></div></details>` : "";
 
   const logoSvg = `<svg class="plz-go-logo" viewBox="0 0 220 48" xmlns="http://www.w3.org/2000/svg" aria-label="PlizioGo"><defs><linearGradient id="plzgoGrad" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#4cc6ff"/><stop offset="50%" stop-color="#7dd87a"/><stop offset="100%" stop-color="#ffae5c"/></linearGradient></defs><text x="0" y="36" font-family="ui-sans-serif,system-ui,'Segoe UI',Roboto,Inter" font-weight="800" font-size="36" fill="#e6ecf3" letter-spacing="-1">Plizio</text><text x="118" y="36" font-family="ui-sans-serif,system-ui,'Segoe UI',Roboto,Inter" font-weight="900" font-size="36" fill="url(#plzgoGrad)" letter-spacing="-1.5">Go</text><circle cx="200" cy="14" r="5" fill="#4cc6ff"><animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/></circle></svg>`;
-  const goBtn = `<button type="button" class="plz-itin-go" id="plz-itin-go" aria-expanded="false"><span class="plz-itin-go-label">${escapeHtml(C.goLabel || "Mehet")}</span><span class="plz-itin-go-arrow">▼</span></button>`;
-  return `<section class="plz-itin" id="plz-itin"><div class="plz-itin-header">${logoSvg}<div class="plz-itin-sub"><div class="plz-itin-tagline">${escapeHtml(C.title)}</div><div class="plz-itin-intro">${escapeHtml(C.intro)}</div></div></div><div class="plz-itin-weathers" role="tablist">${weatherButtons}</div><div class="plz-itin-modes" role="tablist">${modeButtons}</div>${goBtn}<div class="plz-itin-body" id="plz-itin-body" hidden>${modeBlocksHtml}${resourcesHtml}</div></section>
-<script>(function(){var r=document.getElementById('plz-itin');if(!r)return;var ws=r.querySelectorAll('[data-weather]'),bs=r.querySelectorAll('[data-mode]'),cs=r.querySelectorAll('[data-mw]'),go=document.getElementById('plz-itin-go'),body=document.getElementById('plz-itin-body');var curW='sunny',curM='walk',open=false;function apply(){ws.forEach(function(x){x.setAttribute('aria-selected',x.dataset.weather===curW?'true':'false')});bs.forEach(function(x){x.setAttribute('aria-selected',x.dataset.mode===curM?'true':'false')});cs.forEach(function(c){c.classList.toggle('active',c.dataset.mw===curM+'-'+curW)})}ws.forEach(function(w){w.addEventListener('click',function(){curW=w.dataset.weather;apply()})});bs.forEach(function(b){b.addEventListener('click',function(){curM=b.dataset.mode;apply()})});if(go){go.addEventListener('click',function(){open=!open;body.hidden=!open;go.setAttribute('aria-expanded',open?'true':'false');go.classList.toggle('open',open);if(open){body.scrollIntoView({behavior:'smooth',block:'nearest'})}})}apply();
+  const goBtn = `<button type="button" class="plz-itin-go" id="plz-itin-go" aria-expanded="true"><span class="plz-itin-go-label">${escapeHtml(C.goLabel || "Mehet")}</span><span class="plz-itin-go-arrow">▼</span></button>`;
+
+  // ---- SEO: TouristTrip JSON-LD for the default mode (walk + sunny) ----
+  // Google "Things to do" rich result eligibility. The itinerary body is now
+  // also shown by default (no `hidden` attr) so the full content is indexed
+  // with full weight; the button just scrolls into view.
+  const defaultMd = data.modes.walk;
+  let tripLd = "";
+  if (defaultMd && Array.isArray(defaultMd.stops) && defaultMd.stops.length > 0) {
+    const tripName = `${C.title} — ${getLocalized((poi as any).name, lang) ?? poi.id}`;
+    const tripDesc = (() => {
+      const v = getVariantContent(defaultMd, "sunny");
+      const nar = (v.narrative_4lang || {})[lang] || "";
+      return nar || C.intro || "";
+    })();
+    const itineraryItems = defaultMd.stops.map((s: any, i: number) => {
+      const name = pickStr(s.name);
+      const [lat, lon] = toLatLon(s.coords);
+      return {
+        "@type": "ListItem",
+        "position": i + 1,
+        "item": {
+          "@type": "TouristAttraction",
+          "name": name,
+          "geo": { "@type": "GeoCoordinates", "latitude": lat, "longitude": lon },
+        },
+      };
+    });
+    const tripObj: any = {
+      "@context": "https://schema.org",
+      "@type": "TouristTrip",
+      "name": tripName,
+      "description": tripDesc,
+      "touristType": ["Sightseer"],
+      "subjectOf": { "@type": "Place", "name": getLocalized((poi as any).name, lang) ?? poi.id },
+      "itinerary": {
+        "@type": "ItemList",
+        "numberOfItems": itineraryItems.length,
+        "itemListElement": itineraryItems,
+      },
+    };
+    if (defaultMd.start && defaultMd.end_estimate) {
+      tripObj.estimatedDuration = `${defaultMd.start} - ${defaultMd.end_estimate}`;
+    }
+    if (defaultMd.total_km) {
+      tripObj.distance = `${defaultMd.total_km} km`;
+    }
+    tripLd = `<script type="application/ld+json">${JSON.stringify(tripObj)}</script>`;
+  }
+
+  return `${tripLd}<section class="plz-itin" id="plz-itin"><div class="plz-itin-header">${logoSvg}<div class="plz-itin-sub"><div class="plz-itin-tagline">${escapeHtml(C.title)}</div><div class="plz-itin-intro">${escapeHtml(C.intro)}</div></div></div><div class="plz-itin-weathers" role="tablist">${weatherButtons}</div><div class="plz-itin-modes" role="tablist">${modeButtons}</div>${goBtn}<div class="plz-itin-body" id="plz-itin-body">${modeBlocksHtml}${resourcesHtml}</div></section>
+<script>(function(){var r=document.getElementById('plz-itin');if(!r)return;var ws=r.querySelectorAll('[data-weather]'),bs=r.querySelectorAll('[data-mode]'),cs=r.querySelectorAll('[data-mw]'),go=document.getElementById('plz-itin-go'),body=document.getElementById('plz-itin-body');var curW='sunny',curM='walk';function apply(){ws.forEach(function(x){x.setAttribute('aria-selected',x.dataset.weather===curW?'true':'false')});bs.forEach(function(x){x.setAttribute('aria-selected',x.dataset.mode===curM?'true':'false')});cs.forEach(function(c){c.classList.toggle('active',c.dataset.mw===curM+'-'+curW)})}ws.forEach(function(w){w.addEventListener('click',function(){curW=w.dataset.weather;apply()})});bs.forEach(function(b){b.addEventListener('click',function(){curM=b.dataset.mode;apply()})});if(go){go.addEventListener('click',function(){body.scrollIntoView({behavior:'smooth',block:'start'})})}apply();
 // Swipe-dots scroll-sync: per active mw-block, update dots based on current scroll position
 function syncDots(track){var dots=track.parentElement.querySelectorAll('.plz-itin-dot');if(!dots.length)return;var w=track.clientWidth;var idx=Math.round(track.scrollLeft/(w*0.85));dots.forEach(function(d,i){d.classList.toggle('active',i===idx)})}
 r.querySelectorAll('.plz-itin-cards').forEach(function(tr){tr.addEventListener('scroll',function(){syncDots(tr)},{passive:true})});
