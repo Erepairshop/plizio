@@ -504,10 +504,22 @@ function getPoiAlternates(poi: POI): Record<string, string> {
   return Object.fromEntries(langs.map((l) => [l, `${SITE_URL}${buildPoiPath(l, poi)}`]));
 }
 
+// Pre-index POIs by parent ONCE (built lazily) so getRelatedPois is O(siblings)
+// instead of scanning all ~48K POIs per page (which was O(n²) over the full build).
+let _poisByParent: Map<string, POI[]> | null = null;
 function getRelatedPois(poi: POI, limit = 6): POI[] {
   if (!poi.parent) return [];
-  return pois
-    .filter((p) => p && p.parent === poi.parent && p.id !== poi.id && p.type !== "region" && p.type !== "country")
+  if (!_poisByParent) {
+    _poisByParent = new Map();
+    for (const p of pois) {
+      if (!p || !p.parent || p.type === "region" || p.type === "country") continue;
+      let arr = _poisByParent.get(p.parent);
+      if (!arr) { arr = []; _poisByParent.set(p.parent, arr); }
+      arr.push(p);
+    }
+  }
+  return (_poisByParent.get(poi.parent) || [])
+    .filter((p) => p.id !== poi.id)
     .sort((a, b) => Number(a.type !== poi.type) - Number(b.type !== poi.type))
     .slice(0, limit);
 }
