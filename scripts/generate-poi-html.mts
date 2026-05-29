@@ -1411,8 +1411,17 @@ function renderHtml(poi: POI, lang: Lang): string | null {
         fr: "Faits marquants de 2026",
         tr: "2026'nın öne çıkan olayları",
       };
-      // Sort by date desc (newest first), then take last 6 visible + hidden rest
-      const sorted = [...yhItems].sort((a: any, b: any) => String(b.date || "").localeCompare(String(a.date || "")));
+      // For FR POIs (DATAtourisme upcoming events), sort ASC so the next-up event
+      // appears first. For other POIs (Opus-curated yearly recap), keep DESC
+      // (newest-first) so "things that just happened" stays at the top.
+      const isUpcomingFeed = yhItems.some((it: any) =>
+        typeof it.source_url === "string" && it.source_url.includes("datatourisme"),
+      );
+      const sorted = [...yhItems].sort((a: any, b: any) =>
+        isUpcomingFeed
+          ? String(a.date || "").localeCompare(String(b.date || ""))
+          : String(b.date || "").localeCompare(String(a.date || "")),
+      );
       const renderCard = (ev: any) => {
         const t = ev.title?.[lang] || ev.title?.en || ev.title?.de || "";
         const s = ev.summary?.[lang] || ev.summary?.en || ev.summary?.de || "";

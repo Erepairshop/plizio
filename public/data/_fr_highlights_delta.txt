@@ -86,7 +86,6 @@ villerupt
 marange-silvange
 saint-vallier-2
 cogolin
-montelimar
 sainte-sigolene
 macon
 cognac
@@ -97,7 +96,6 @@ royan
 saint-pourcain-sur-sioule
 nyons
 la-rochelle
-romans-sur-isere
 brioude
 saint-pierre-d-oleron
 le-puy-en-velay
@@ -468,7 +466,6 @@ verneuil-sur-avre
 chateau-renault
 varennes-vauzelles
 salbris
-saint-jean-de-la-ruelle
 france-tours-bis-cities-v2
 saint-jean-le-blanc
 france-rocamadour-history-v2
@@ -487,13 +484,9 @@ aubusson
 saint-jean-de-luz
 hendaye
 hasparren
-pau
-marmande
-biarritz
 brive-la-gaillarde
 andernos-les-bains
 mimizan
-limoges
 bidart
 saint-pantaleon-de-larche
 montmorillon
@@ -522,13 +515,10 @@ ares
 ussel
 saint-sever
 langon
-orthez
 mont-de-marsan
-casteljaloux
 oloron-sainte-marie
 mourenx
 biscarrosse
-saint-astier
 aire-sur-l-adour
 parthenay
 villeneuve-sur-lot
@@ -628,7 +618,6 @@ sezanne
 fr-reims-cathedral
 tinqueux
 saint-memmie
-bezannes
 ay
 romilly-sur-seine
 reims
@@ -747,8 +736,6 @@ sainte-savine
 pont-sainte-marie
 la-chapelle-saint-luc
 france-caen-bis-cities-v2
-dives-sur-mer
-granville
 coutances
 douvres-la-delivrande
 honfleur
@@ -852,7 +839,6 @@ bois-guillaume-bihorel
 giberville
 notre-dame-de-gravenchon
 rodez
-villefranche-de-rouergue
 onet-le-chateau
 aubin
 france-conques-history-v2
@@ -944,7 +930,6 @@ lourdes
 bagneres-de-bigorre
 vic-en-bigorre
 borderes-sur-l-echez
-aureilhan
 ploermel
 guer
 vitre
@@ -964,7 +949,6 @@ ploudalmezeau
 landivisiau
 loudeac
 guilvinec
-douarnenez
 pont-l-abbe
 landerneau
 perros-guirec
@@ -1291,11 +1275,9 @@ pollestres
 ille-sur-tet
 pia
 thuir
-city-aix-en-provence-extra
 cassis
 saint-mitre-les-remparts
 rousset
-marseille
 pelissanne
 arles
 saint-remy-de-provence
