@@ -1408,20 +1408,36 @@ function renderHtml(poi: POI, lang: Lang): string | null {
         };
         const cat = pickL(ev.category);
         const price = pickL(ev.price);
+        // Recurrent events: the `date` is just the next occurrence from when the
+        // feed was scraped, not the canonical event date — hide it and render
+        // a "every <weekday> <time>" string instead.
+        const isRecurrent = !!(ev.period && typeof ev.period === "object" && ev.period.recurrent);
+        const DAY_I18N: Record<string, Partial<Record<Lang, string>>> = {
+          Monday:    { de: "montags",     hu: "hétfőnként",   ro: "lunea",    en: "Mondays",    fr: "le lundi",    tr: "Pazartesi" },
+          Tuesday:   { de: "dienstags",   hu: "keddenként",   ro: "marțea",   en: "Tuesdays",   fr: "le mardi",    tr: "Salı" },
+          Wednesday: { de: "mittwochs",   hu: "szerdánként",  ro: "miercurea",en: "Wednesdays", fr: "le mercredi", tr: "Çarşamba" },
+          Thursday:  { de: "donnerstags", hu: "csütörtökönként", ro: "joia", en: "Thursdays",  fr: "le jeudi",    tr: "Perşembe" },
+          Friday:    { de: "freitags",    hu: "péntekenként", ro: "vinerea",  en: "Fridays",    fr: "le vendredi", tr: "Cuma" },
+          Saturday:  { de: "samstags",    hu: "szombatonként",ro: "sâmbăta",  en: "Saturdays",  fr: "le samedi",   tr: "Cumartesi" },
+          Sunday:    { de: "sonntags",    hu: "vasárnaponként",ro: "duminica",en: "Sundays",    fr: "le dimanche", tr: "Pazar" },
+        };
         let periodTxt = "";
         if (ev.period) {
           if (typeof ev.period === "string") periodTxt = ev.period;
           else if (ev.period.applies_on_day || ev.period.start_time) {
-            periodTxt = [ev.period.applies_on_day, ev.period.start_time?.slice(0,5)].filter(Boolean).join(" ");
+            const dayRaw = ev.period.applies_on_day as string | undefined;
+            const dayTxt = dayRaw ? (DAY_I18N[dayRaw]?.[lang] || DAY_I18N[dayRaw]?.en || dayRaw) : "";
+            periodTxt = [dayTxt, ev.period.start_time?.slice(0,5)].filter(Boolean).join(" ");
           }
         }
+        const showDate = !isRecurrent && d;
         const badges = [
           cat   ? `<span class="plz-yh-badge plz-yh-cat">${escapeHtml(cat)}</span>` : "",
           price ? `<span class="plz-yh-badge plz-yh-price">${escapeHtml(price)}</span>` : "",
           periodTxt ? `<span class="plz-yh-badge plz-yh-period">${escapeHtml(periodTxt)}</span>` : "",
         ].filter(Boolean).join("");
-        const meta = (d || badges)
-          ? `<div class="plz-yh-meta">${d ? `<time class="plz-yh-date" datetime="${escapeHtml(ev.date || "")}">${escapeHtml(d)}</time>` : ""}${badges}</div>`
+        const meta = (showDate || badges)
+          ? `<div class="plz-yh-meta">${showDate ? `<time class="plz-yh-date" datetime="${escapeHtml(ev.date || "")}">${escapeHtml(d)}</time>` : ""}${badges}</div>`
           : "";
         return `<article class="plz-yh-card${imgHtml ? " plz-yh-has-img" : ""}">${linkOpen}${imgHtml}<div class="plz-yh-body-card">${meta}<h3 class="plz-yh-title">${escapeHtml(t)}</h3><p class="plz-yh-summary">${escapeHtml(s)}</p></div>${linkClose}</article>`;
       };
