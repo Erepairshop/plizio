@@ -1486,8 +1486,9 @@ function renderHtml(poi: POI, lang: Lang): string | null {
         // Optional thumbnail. Use loading="lazy" so the list doesn't block render.
         const evTitle = ev.title?.[lang] || ev.title?.en || ev.title?.de || "";
         const evAlt = evTitle ? buildAlt(evTitle, name) : buildAlt(name);
+        // Clickable thumbnail → reuses the global lightbox (.plz-sight-img-btn handler).
         const imgHtml = (typeof ev.image_url === "string" && /^https?:\/\//.test(ev.image_url))
-          ? `<img class="plz-yh-img" src="${escapeHtml(ev.image_url)}" alt="${escapeHtml(evAlt)}" loading="lazy" decoding="async"/>` : "";
+          ? `<button type="button" class="plz-sight-img-btn plz-yh-img-btn" data-plzimg="${escapeHtml(ev.image_url)}" data-plzalt="${escapeHtml(evAlt)}" aria-label="${escapeHtml(evTitle || name)}"><img class="plz-yh-img" src="${escapeHtml(ev.image_url)}" alt="${escapeHtml(evAlt)}" loading="lazy" decoding="async"/></button>` : "";
         // Optional badges in the meta row: category, price, period
         const pickL = (v: any): string => {
           if (!v) return "";
@@ -1528,7 +1529,7 @@ function renderHtml(poi: POI, lang: Lang): string | null {
         const meta = (showDate || badges)
           ? `<div class="plz-yh-meta">${showDate ? `<time class="plz-yh-date" datetime="${escapeHtml(ev.date || "")}">${escapeHtml(d)}</time>` : ""}${badges}</div>`
           : "";
-        return `<article class="plz-yh-card${imgHtml ? " plz-yh-has-img" : ""}">${linkOpen}${imgHtml}<div class="plz-yh-body-card">${meta}<h3 class="plz-yh-title">${escapeHtml(t)}</h3><p class="plz-yh-summary">${escapeHtml(s)}</p></div>${linkClose}</article>`;
+        return `<article class="plz-yh-card${imgHtml ? " plz-yh-has-img" : ""}">${imgHtml}${linkOpen}<div class="plz-yh-body-card">${meta}<h3 class="plz-yh-title">${escapeHtml(t)}</h3><p class="plz-yh-summary">${escapeHtml(s)}</p></div>${linkClose}</article>`;
       };
       const VISIBLE = 6;
       const visible = sorted.slice(0, VISIBLE).map(renderCard).join("");
