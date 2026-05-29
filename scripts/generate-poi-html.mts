@@ -126,6 +126,30 @@ try {
 } catch (e) {
   console.log(`[poi-html] image-index init failed: ${(e as Error).message}`);
 }
+// Fallback: ship `_image-manifest.json` (53K basenames) in repo so delta deploys
+// running on a self-hosted runner without symlinked image dirs can still resolve
+// hero-image fallbacks. Only used when the directory scan came up empty/short.
+try {
+  const manifestPath = path.resolve(process.cwd(), "public", "data", "_image-manifest.json");
+  if (fs.existsSync(manifestPath) && IMG_SET.size < 1000) {
+    const arr = JSON.parse(fs.readFileSync(manifestPath, "utf-8")) as string[];
+    for (const f of arr) {
+      if (!f.endsWith(".webp")) continue;
+      IMG_SET.add(f);
+      const stem = f.slice(0, -5);
+      if (!IMG_BY_STEM.has(stem)) IMG_BY_STEM.set(stem, `/poi-images/${f}`);
+      let core = stem;
+      core = core.replace(/^(france|germany|hungary|romania|italy|spain|poland|austria|switzerland|netherlands|belgium|portugal|ireland|uk|greece|croatia|bulgaria|sweden|norway|denmark|finland|czech|slovakia|slovenia|estonia|latvia|lithuania)-/i, "");
+      core = core.replace(/-(bis|south|north|east|west|alt|south2|north2)-(cities|history|landmarks|life|economic|nature|relief)-v\d+$/i, "");
+      core = core.replace(/-(cities|history|landmarks|life|economic|nature|relief)-v\d+$/i, "");
+      core = core.replace(/-(extra|poi|v\d+)$/i, "");
+      if (core !== stem && !IMG_BY_STEM.has(core)) IMG_BY_STEM.set(core, `/poi-images/${f}`);
+    }
+    console.log(`[poi-html] image-index loaded from manifest fallback: ${IMG_SET.size} files`);
+  }
+} catch (e) {
+  console.log(`[poi-html] manifest fallback failed: ${(e as Error).message}`);
+}
 function lookupFallbackImage(poiId: string): string | null {
   const tryName = (s: string): string | null => {
     if (IMG_SET.has(`${s}.webp`)) return `/poi-images/${s}.webp`;
