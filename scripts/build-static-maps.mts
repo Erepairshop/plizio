@@ -638,7 +638,7 @@ function renderHtml(c: Country, lang: Lang, regions: any[], pois: SlimPoi[], vie
   const hint = HINT[lang], more = MORE[lang], back = BACK[lang], searchPh = SEARCH_PH[lang];
   const langLinks = LANGS.map(l => l === lang
     ? `<span class="lang on">${l.toUpperCase()}</span>`
-    : `<a class="lang" href="./?lang=${l}">${l.toUpperCase()}</a>`
+    : `<a class="lang" href="/${c.slug}-map/${l==='hu'?'':l+'/'}">${l.toUpperCase()}</a>`
   ).join("");
 
   // Count POIs per group for chip badges
