@@ -530,21 +530,48 @@ function haversineKm(lat1: number, lon1: number, lat2: number, lon2: number): nu
   return 2 * R * Math.asin(Math.min(1, Math.sqrt(h)));
 }
 
+// Spatial grid index (1°×1° cells) built ONCE — avoids an O(n) scan of all
+// ~50K POIs per page (which made the full build O(n²)). Each entry caches the
+// normalized [lat,lon] so getNearbyPois only haversines a handful of candidates.
+type GridEntry = { p: POI; lat: number; lon: number };
+let _nearbyGrid: Map<string, GridEntry[]> | null = null;
+function buildNearbyGrid(): Map<string, GridEntry[]> {
+  const g = new Map<string, GridEntry[]>();
+  for (const p of pois) {
+    if (!p || p.type === "region" || p.type === "country") continue;
+    const c = coordLatLon(p.coords);
+    if (!c) continue;
+    if (!hasIndexableContent(p)) continue;
+    const key = Math.floor(c[0]) + "|" + Math.floor(c[1]);
+    let arr = g.get(key);
+    if (!arr) { arr = []; g.set(key, arr); }
+    arr.push({ p, lat: c[0], lon: c[1] });
+  }
+  return g;
+}
+
 // Geographically nearest indexable POIs (haversine), deduped by name.
 function getNearbyPois(poi: POI, limit = 8, maxKm = 150): { p: POI; km: number }[] {
   const c0 = coordLatLon(poi.coords);
   if (!c0) return [];
   const [lat0, lon0] = c0;
+  if (!_nearbyGrid) _nearbyGrid = buildNearbyGrid();
+  const cosLat = Math.max(0.2, Math.cos(lat0 * Math.PI / 180));
+  const latR = Math.ceil(maxKm / 111) + 1;
+  const lonR = Math.ceil(maxKm / (111 * cosLat)) + 1;
+  const flat = Math.floor(lat0), flon = Math.floor(lon0);
   const found: { p: POI; km: number }[] = [];
-  for (const p of pois) {
-    if (!p || p.id === poi.id) continue;
-    if (p.type === "region" || p.type === "country") continue;
-    if (!hasIndexableContent(p)) continue;
-    const c = coordLatLon(p.coords);
-    if (!c) continue;
-    const km = haversineKm(lat0, lon0, c[0], c[1]);
-    if (km <= 0.05 || km > maxKm) continue;
-    found.push({ p, km });
+  for (let dla = -latR; dla <= latR; dla++) {
+    for (let dlo = -lonR; dlo <= lonR; dlo++) {
+      const cell = _nearbyGrid.get((flat + dla) + "|" + (flon + dlo));
+      if (!cell) continue;
+      for (const e of cell) {
+        if (e.p.id === poi.id) continue;
+        const km = haversineKm(lat0, lon0, e.lat, e.lon);
+        if (km <= 0.05 || km > maxKm) continue;
+        found.push({ p: e.p, km });
+      }
+    }
   }
   found.sort((a, b) => a.km - b.km);
   const seen = new Set<string>();
